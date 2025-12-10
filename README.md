@@ -120,3 +120,4 @@ We welcome contributions to the AI Textbook project! If you'd like to contribute
 4. Submit a pull request with a clear description of your changes
 
 For major changes, please open an issue first to discuss what you would like to change."# ai_humanoid_robotics_course" 
+"# ai_humanoid_robotics_book" 

@@ -1,0 +1,26 @@
+{
+  "id": "ml/introduction",
+  "title": "Introduction to Machine Learning",
+  "description": "Machine Learning (ML) is a subset of artificial intelligence that focuses on building systems that can learn from data without being explicitly programmed for every task. This section provides an overview of ML concepts, types, and applications.",
+  "source": "@site/docs/ml/introduction.md",
+  "sourceDirName": "ml",
+  "slug": "/ml/introduction",
+  "permalink": "/docs/ml/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Introduction to ML"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Ethics",
+    "permalink": "/docs/foundations/ai-ethics"
+  },
+  "next": {
+    "title": "Supervised Learning",
+    "permalink": "/docs/ml/supervised-learning"
+  }
+}

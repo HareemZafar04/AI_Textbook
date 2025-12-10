@@ -1,0 +1,26 @@
+{
+  "id": "foundations/ai-ethics",
+  "title": "AI Ethics",
+  "description": "As artificial intelligence becomes increasingly integrated into our daily lives, ethical considerations become paramount. This section explores the ethical implications of AI and guidelines for responsible development and deployment.",
+  "source": "@site/docs/foundations/ai-ethics.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/ai-ethics",
+  "permalink": "/docs/foundations/ai-ethics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/ai-ethics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "AI Ethics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Types of AI",
+    "permalink": "/docs/foundations/types-of-ai"
+  },
+  "next": {
+    "title": "Introduction to ML",
+    "permalink": "/docs/ml/introduction"
+  }
+}

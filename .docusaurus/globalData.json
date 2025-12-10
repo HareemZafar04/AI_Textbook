@@ -1,0 +1,148 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "applications/autonomous-systems",
+              "path": "/docs/applications/autonomous-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "applications/finance",
+              "path": "/docs/applications/finance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "applications/healthcare",
+              "path": "/docs/applications/healthcare",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "applications/robotics",
+              "path": "/docs/applications/robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cv/applications",
+              "path": "/docs/cv/applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cv/image-processing",
+              "path": "/docs/cv/image-processing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cv/introduction",
+              "path": "/docs/cv/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cv/object-detection",
+              "path": "/docs/cv/object-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundations/ai-ethics",
+              "path": "/docs/foundations/ai-ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundations/core-concepts",
+              "path": "/docs/foundations/core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundations/history",
+              "path": "/docs/foundations/history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "foundations/types-of-ai",
+              "path": "/docs/foundations/types-of-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/quick-start",
+              "path": "/docs/getting-started/quick-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ml/deep-learning",
+              "path": "/docs/ml/deep-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ml/introduction",
+              "path": "/docs/ml/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ml/reinforcement-learning",
+              "path": "/docs/ml/reinforcement-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ml/supervised-learning",
+              "path": "/docs/ml/supervised-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ml/unsupervised-learning",
+              "path": "/docs/ml/unsupervised-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nlp/applications",
+              "path": "/docs/nlp/applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nlp/introduction",
+              "path": "/docs/nlp/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nlp/language-models",
+              "path": "/docs/nlp/language-models",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nlp/text-processing",
+              "path": "/docs/nlp/text-processing",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

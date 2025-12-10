@@ -1,0 +1,26 @@
+{
+  "id": "foundations/history",
+  "title": "History of AI",
+  "description": "Understanding the history of Artificial Intelligence helps us appreciate how the field has evolved and where it might be heading.",
+  "source": "@site/docs/foundations/history.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/history",
+  "permalink": "/docs/foundations/history",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/history.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "History of AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/getting-started/quick-start"
+  },
+  "next": {
+    "title": "Core Concepts",
+    "permalink": "/docs/foundations/core-concepts"
+  }
+}

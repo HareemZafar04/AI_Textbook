@@ -1,0 +1,26 @@
+{
+  "id": "applications/finance",
+  "title": "Finance Applications of AI",
+  "description": "Artificial Intelligence has transformed the financial sector by enabling more accurate risk assessment, fraud detection, algorithmic trading, and personalized financial services. This section explores the various applications of AI in finance and their impact on the industry.",
+  "source": "@site/docs/applications/finance.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/finance",
+  "permalink": "/docs/applications/finance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/finance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Finance Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Healthcare Applications",
+    "permalink": "/docs/applications/healthcare"
+  },
+  "next": {
+    "title": "autonomous-systems",
+    "permalink": "/docs/applications/autonomous-systems"
+  }
+}

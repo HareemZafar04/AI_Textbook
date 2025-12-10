@@ -1,0 +1,26 @@
+{
+  "id": "cv/object-detection",
+  "title": "Object Detection",
+  "description": "Object detection is a computer vision technique that combines image classification and localization to identify and locate objects within an image. Unlike image classification which only identifies what objects are present, object detection also determines where these objects are located in the image.",
+  "source": "@site/docs/cv/object-detection.md",
+  "sourceDirName": "cv",
+  "slug": "/cv/object-detection",
+  "permalink": "/docs/cv/object-detection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/object-detection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Object Detection"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image Processing in Computer Vision",
+    "permalink": "/docs/cv/image-processing"
+  },
+  "next": {
+    "title": "Computer Vision Applications",
+    "permalink": "/docs/cv/applications"
+  }
+}

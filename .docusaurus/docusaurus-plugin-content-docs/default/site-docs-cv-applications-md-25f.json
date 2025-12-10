@@ -1,0 +1,26 @@
+{
+  "id": "cv/applications",
+  "title": "Computer Vision Applications",
+  "description": "Computer Vision (CV) has transformed from an academic research area to a widely used technology across numerous industries. This section explores the practical applications of computer vision, demonstrating its impact on various sectors and everyday life.",
+  "source": "@site/docs/cv/applications.md",
+  "sourceDirName": "cv",
+  "slug": "/cv/applications",
+  "permalink": "/docs/cv/applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/applications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Computer Vision Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Object Detection",
+    "permalink": "/docs/cv/object-detection"
+  },
+  "next": {
+    "title": "Healthcare Applications",
+    "permalink": "/docs/applications/healthcare"
+  }
+}

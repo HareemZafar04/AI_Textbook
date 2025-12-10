@@ -1,0 +1,26 @@
+{
+  "id": "getting-started/quick-start",
+  "title": "Quick Start",
+  "description": "Get started with AI by working through this hands-on introduction that covers the basics and demonstrates core concepts.",
+  "source": "@site/docs/getting-started/quick-start.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quick-start",
+  "permalink": "/docs/getting-started/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/quick-start.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Quick Start"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/getting-started/installation"
+  },
+  "next": {
+    "title": "History of AI",
+    "permalink": "/docs/foundations/history"
+  }
+}

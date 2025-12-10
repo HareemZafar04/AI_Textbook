@@ -1,0 +1,24 @@
+{
+  "id": "applications/autonomous-systems",
+  "title": "autonomous-systems",
+  "description": "",
+  "source": "@site/docs/applications/autonomous-systems.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/autonomous-systems",
+  "permalink": "/docs/applications/autonomous-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/autonomous-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Finance Applications",
+    "permalink": "/docs/applications/finance"
+  },
+  "next": {
+    "title": "Robotics Applications",
+    "permalink": "/docs/applications/robotics"
+  }
+}

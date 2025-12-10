@@ -1,0 +1,26 @@
+{
+  "id": "foundations/types-of-ai",
+  "title": "Types of AI",
+  "description": "Artificial Intelligence can be categorized in multiple ways, each highlighting different characteristics and capabilities of AI systems.",
+  "source": "@site/docs/foundations/types-of-ai.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/types-of-ai",
+  "permalink": "/docs/foundations/types-of-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/types-of-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Types of AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core Concepts",
+    "permalink": "/docs/foundations/core-concepts"
+  },
+  "next": {
+    "title": "AI Ethics",
+    "permalink": "/docs/foundations/ai-ethics"
+  }
+}

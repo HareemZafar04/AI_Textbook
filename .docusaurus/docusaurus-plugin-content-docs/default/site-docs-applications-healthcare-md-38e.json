@@ -1,0 +1,26 @@
+{
+  "id": "applications/healthcare",
+  "title": "Healthcare Applications of AI",
+  "description": "Artificial Intelligence has revolutionized healthcare by enabling more accurate diagnoses, personalized treatments, and efficient administrative processes. This section explores the various applications of AI in healthcare and their impact on patient care.",
+  "source": "@site/docs/applications/healthcare.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/healthcare",
+  "permalink": "/docs/applications/healthcare",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/healthcare.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Healthcare Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Computer Vision Applications",
+    "permalink": "/docs/cv/applications"
+  },
+  "next": {
+    "title": "Finance Applications",
+    "permalink": "/docs/applications/finance"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "foundations/core-concepts",
+  "title": "Core Concepts of AI",
+  "description": "This section introduces the fundamental concepts that underpin all of artificial intelligence.",
+  "source": "@site/docs/foundations/core-concepts.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/core-concepts",
+  "permalink": "/docs/foundations/core-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/core-concepts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Core Concepts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "History of AI",
+    "permalink": "/docs/foundations/history"
+  },
+  "next": {
+    "title": "Types of AI",
+    "permalink": "/docs/foundations/types-of-ai"
+  }
+}

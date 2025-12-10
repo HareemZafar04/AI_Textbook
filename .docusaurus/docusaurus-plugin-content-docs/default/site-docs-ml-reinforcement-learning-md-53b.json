@@ -1,0 +1,26 @@
+{
+  "id": "ml/reinforcement-learning",
+  "title": "Reinforcement Learning",
+  "description": "Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions and aims to maximize the cumulative reward over time through trial and error.",
+  "source": "@site/docs/ml/reinforcement-learning.md",
+  "sourceDirName": "ml",
+  "slug": "/ml/reinforcement-learning",
+  "permalink": "/docs/ml/reinforcement-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/reinforcement-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Reinforcement Learning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unsupervised Learning",
+    "permalink": "/docs/ml/unsupervised-learning"
+  },
+  "next": {
+    "title": "Deep Learning",
+    "permalink": "/docs/ml/deep-learning"
+  }
+}

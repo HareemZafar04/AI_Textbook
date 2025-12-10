@@ -1,0 +1,22 @@
+/**
+ * CSS module for {componentName} component
+ * 
+ * Use camelCase for class names to work with CSS modules
+ */
+
+.container {
+  /* Add your container styles here */
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.title {
+  /* Add your title styles here */
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.content {
+  /* Add your content styles here */
+  line-height: 1.6;
+}

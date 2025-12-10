@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Introduction to AI Textbook",
+  "description": "Welcome to the comprehensive guide to Artificial Intelligence! This textbook is designed to provide a thorough understanding of AI concepts, techniques, and applications for students, researchers, and practitioners.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/docs/intro",
+  "permalink": "/docs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/docs/intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/getting-started/installation"
+  }
+}

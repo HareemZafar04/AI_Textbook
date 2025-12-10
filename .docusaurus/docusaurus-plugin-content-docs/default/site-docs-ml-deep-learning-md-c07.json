@@ -1,0 +1,26 @@
+{
+  "id": "ml/deep-learning",
+  "title": "Deep Learning",
+  "description": "Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers (hence \"deep\") to learn complex patterns from large amounts of data. It has revolutionized fields such as computer vision, natural language processing, and speech recognition.",
+  "source": "@site/docs/ml/deep-learning.md",
+  "sourceDirName": "ml",
+  "slug": "/ml/deep-learning",
+  "permalink": "/docs/ml/deep-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/deep-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Deep Learning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reinforcement Learning",
+    "permalink": "/docs/ml/reinforcement-learning"
+  },
+  "next": {
+    "title": "Introduction to NLP",
+    "permalink": "/docs/nlp/introduction"
+  }
+}

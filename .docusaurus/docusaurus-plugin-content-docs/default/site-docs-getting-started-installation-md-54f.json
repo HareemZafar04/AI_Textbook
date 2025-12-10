@@ -1,0 +1,26 @@
+{
+  "id": "getting-started/installation",
+  "title": "Installation",
+  "description": "This guide will help you set up the tools and environment needed to work with AI concepts covered in this textbook.",
+  "source": "@site/docs/getting-started/installation.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installation",
+  "permalink": "/docs/getting-started/installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Installation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to AI Textbook",
+    "permalink": "/docs/docs/intro"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/getting-started/quick-start"
+  }
+}

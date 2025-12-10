@@ -1,0 +1,26 @@
+{
+  "id": "nlp/introduction",
+  "title": "Introduction to Natural Language Processing",
+  "description": "Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The ultimate objective of NLP is to enable computers to understand, interpret, and generate human language in a valuable way.",
+  "source": "@site/docs/nlp/introduction.md",
+  "sourceDirName": "nlp",
+  "slug": "/nlp/introduction",
+  "permalink": "/docs/nlp/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Introduction to NLP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Learning",
+    "permalink": "/docs/ml/deep-learning"
+  },
+  "next": {
+    "title": "Text Processing Techniques",
+    "permalink": "/docs/nlp/text-processing"
+  }
+}

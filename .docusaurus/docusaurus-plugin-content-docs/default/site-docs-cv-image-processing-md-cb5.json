@@ -1,0 +1,26 @@
+{
+  "id": "cv/image-processing",
+  "title": "Image Processing in Computer Vision",
+  "description": "Image processing is a fundamental component of computer vision that involves techniques to enhance, analyze, and manipulate digital images to extract meaningful information or improve their quality for subsequent analysis.",
+  "source": "@site/docs/cv/image-processing.md",
+  "sourceDirName": "cv",
+  "slug": "/cv/image-processing",
+  "permalink": "/docs/cv/image-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/image-processing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Image Processing in Computer Vision"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Computer Vision",
+    "permalink": "/docs/cv/introduction"
+  },
+  "next": {
+    "title": "Object Detection",
+    "permalink": "/docs/cv/object-detection"
+  }
+}

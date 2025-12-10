@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/ai-textbook/",
+  "source": "@site/src/pages/ai-textbook/index.mdx",
+  "title": "AI Textbook",
+  "description": "Homepage for Physical AI & Humanoid Robotics Book",
+  "frontMatter": {
+    "title": "AI Textbook",
+    "description": "Homepage for Physical AI & Humanoid Robotics Book"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nlp/text-processing",
+  "title": "Text Processing Techniques",
+  "description": "Text processing forms the foundation of Natural Language Processing applications. This section explores the essential techniques used to clean, transform, and prepare textual data for analysis and modeling.",
+  "source": "@site/docs/nlp/text-processing.md",
+  "sourceDirName": "nlp",
+  "slug": "/nlp/text-processing",
+  "permalink": "/docs/nlp/text-processing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/text-processing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Text Processing Techniques"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to NLP",
+    "permalink": "/docs/nlp/introduction"
+  },
+  "next": {
+    "title": "Language Models",
+    "permalink": "/docs/nlp/language-models"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "nlp/language-models",
+  "title": "Language Models",
+  "description": "Language models are fundamental components in Natural Language Processing that assign probabilities to sequences of words. They are used to predict the likelihood of a word given the preceding context or to generate new text that resembles human language.",
+  "source": "@site/docs/nlp/language-models.md",
+  "sourceDirName": "nlp",
+  "slug": "/nlp/language-models",
+  "permalink": "/docs/nlp/language-models",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/language-models.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Language Models"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Text Processing Techniques",
+    "permalink": "/docs/nlp/text-processing"
+  },
+  "next": {
+    "title": "NLP Applications",
+    "permalink": "/docs/nlp/applications"
+  }
+}

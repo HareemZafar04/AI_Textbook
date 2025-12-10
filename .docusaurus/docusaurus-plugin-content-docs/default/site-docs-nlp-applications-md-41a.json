@@ -1,0 +1,26 @@
+{
+  "id": "nlp/applications",
+  "title": "Natural Language Processing Applications",
+  "description": "Natural Language Processing (NLP) has found application across numerous domains, transforming how we interact with technology and analyze textual data. This section explores key applications of NLP, their implementation approaches, and real-world impact.",
+  "source": "@site/docs/nlp/applications.md",
+  "sourceDirName": "nlp",
+  "slug": "/nlp/applications",
+  "permalink": "/docs/nlp/applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/applications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "NLP Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Models",
+    "permalink": "/docs/nlp/language-models"
+  },
+  "next": {
+    "title": "Introduction to Computer Vision",
+    "permalink": "/docs/cv/introduction"
+  }
+}

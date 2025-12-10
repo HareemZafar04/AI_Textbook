@@ -1,0 +1,26 @@
+{
+  "id": "cv/introduction",
+  "title": "Introduction to Computer Vision",
+  "description": "Computer Vision (CV) is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they \"see.\"",
+  "source": "@site/docs/cv/introduction.md",
+  "sourceDirName": "cv",
+  "slug": "/cv/introduction",
+  "permalink": "/docs/cv/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Introduction to Computer Vision"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLP Applications",
+    "permalink": "/docs/nlp/applications"
+  },
+  "next": {
+    "title": "Image Processing in Computer Vision",
+    "permalink": "/docs/cv/image-processing"
+  }
+}

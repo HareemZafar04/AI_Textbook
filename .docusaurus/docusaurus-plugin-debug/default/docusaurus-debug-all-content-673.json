@@ -1,0 +1,1034 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs",
+          "editUrlLocalized": "https://github.com/ai-textbook/ai-textbook/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\UZM\\Desktop\\ai-textbook\\sidebars.js",
+          "contentPath": "C:\\Users\\UZM\\Desktop\\ai-textbook\\docs",
+          "contentPathLocalized": "C:\\Users\\UZM\\Desktop\\ai-textbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "applications/autonomous-systems",
+              "title": "autonomous-systems",
+              "description": "",
+              "source": "@site/docs/applications/autonomous-systems.md",
+              "sourceDirName": "applications",
+              "slug": "/applications/autonomous-systems",
+              "permalink": "/docs/applications/autonomous-systems",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/autonomous-systems.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Finance Applications",
+                "permalink": "/docs/applications/finance"
+              },
+              "next": {
+                "title": "Robotics Applications",
+                "permalink": "/docs/applications/robotics"
+              }
+            },
+            {
+              "id": "applications/finance",
+              "title": "Finance Applications of AI",
+              "description": "Artificial Intelligence has transformed the financial sector by enabling more accurate risk assessment, fraud detection, algorithmic trading, and personalized financial services. This section explores the various applications of AI in finance and their impact on the industry.",
+              "source": "@site/docs/applications/finance.md",
+              "sourceDirName": "applications",
+              "slug": "/applications/finance",
+              "permalink": "/docs/applications/finance",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/finance.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Finance Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Healthcare Applications",
+                "permalink": "/docs/applications/healthcare"
+              },
+              "next": {
+                "title": "autonomous-systems",
+                "permalink": "/docs/applications/autonomous-systems"
+              }
+            },
+            {
+              "id": "applications/healthcare",
+              "title": "Healthcare Applications of AI",
+              "description": "Artificial Intelligence has revolutionized healthcare by enabling more accurate diagnoses, personalized treatments, and efficient administrative processes. This section explores the various applications of AI in healthcare and their impact on patient care.",
+              "source": "@site/docs/applications/healthcare.md",
+              "sourceDirName": "applications",
+              "slug": "/applications/healthcare",
+              "permalink": "/docs/applications/healthcare",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/healthcare.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Healthcare Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Computer Vision Applications",
+                "permalink": "/docs/cv/applications"
+              },
+              "next": {
+                "title": "Finance Applications",
+                "permalink": "/docs/applications/finance"
+              }
+            },
+            {
+              "id": "applications/robotics",
+              "title": "Robotics Applications",
+              "description": "Robotics is an interdisciplinary field that integrates mechanical engineering, electrical engineering, computer science, and artificial intelligence to design, construct, operate, and apply robots. This section explores the various applications of AI in robotics and their impact on different industries.",
+              "source": "@site/docs/applications/robotics.md",
+              "sourceDirName": "applications",
+              "slug": "/applications/robotics",
+              "permalink": "/docs/applications/robotics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/robotics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Robotics Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "autonomous-systems",
+                "permalink": "/docs/applications/autonomous-systems"
+              }
+            },
+            {
+              "id": "cv/applications",
+              "title": "Computer Vision Applications",
+              "description": "Computer Vision (CV) has transformed from an academic research area to a widely used technology across numerous industries. This section explores the practical applications of computer vision, demonstrating its impact on various sectors and everyday life.",
+              "source": "@site/docs/cv/applications.md",
+              "sourceDirName": "cv",
+              "slug": "/cv/applications",
+              "permalink": "/docs/cv/applications",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/applications.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Computer Vision Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Object Detection",
+                "permalink": "/docs/cv/object-detection"
+              },
+              "next": {
+                "title": "Healthcare Applications",
+                "permalink": "/docs/applications/healthcare"
+              }
+            },
+            {
+              "id": "cv/image-processing",
+              "title": "Image Processing in Computer Vision",
+              "description": "Image processing is a fundamental component of computer vision that involves techniques to enhance, analyze, and manipulate digital images to extract meaningful information or improve their quality for subsequent analysis.",
+              "source": "@site/docs/cv/image-processing.md",
+              "sourceDirName": "cv",
+              "slug": "/cv/image-processing",
+              "permalink": "/docs/cv/image-processing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/image-processing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Image Processing in Computer Vision"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Computer Vision",
+                "permalink": "/docs/cv/introduction"
+              },
+              "next": {
+                "title": "Object Detection",
+                "permalink": "/docs/cv/object-detection"
+              }
+            },
+            {
+              "id": "cv/introduction",
+              "title": "Introduction to Computer Vision",
+              "description": "Computer Vision (CV) is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they \"see.\"",
+              "source": "@site/docs/cv/introduction.md",
+              "sourceDirName": "cv",
+              "slug": "/cv/introduction",
+              "permalink": "/docs/cv/introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Introduction to Computer Vision"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLP Applications",
+                "permalink": "/docs/nlp/applications"
+              },
+              "next": {
+                "title": "Image Processing in Computer Vision",
+                "permalink": "/docs/cv/image-processing"
+              }
+            },
+            {
+              "id": "cv/object-detection",
+              "title": "Object Detection",
+              "description": "Object detection is a computer vision technique that combines image classification and localization to identify and locate objects within an image. Unlike image classification which only identifies what objects are present, object detection also determines where these objects are located in the image.",
+              "source": "@site/docs/cv/object-detection.md",
+              "sourceDirName": "cv",
+              "slug": "/cv/object-detection",
+              "permalink": "/docs/cv/object-detection",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/object-detection.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Object Detection"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Image Processing in Computer Vision",
+                "permalink": "/docs/cv/image-processing"
+              },
+              "next": {
+                "title": "Computer Vision Applications",
+                "permalink": "/docs/cv/applications"
+              }
+            },
+            {
+              "id": "foundations/ai-ethics",
+              "title": "AI Ethics",
+              "description": "As artificial intelligence becomes increasingly integrated into our daily lives, ethical considerations become paramount. This section explores the ethical implications of AI and guidelines for responsible development and deployment.",
+              "source": "@site/docs/foundations/ai-ethics.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/ai-ethics",
+              "permalink": "/docs/foundations/ai-ethics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/ai-ethics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "AI Ethics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Types of AI",
+                "permalink": "/docs/foundations/types-of-ai"
+              },
+              "next": {
+                "title": "Introduction to ML",
+                "permalink": "/docs/ml/introduction"
+              }
+            },
+            {
+              "id": "foundations/core-concepts",
+              "title": "Core Concepts of AI",
+              "description": "This section introduces the fundamental concepts that underpin all of artificial intelligence.",
+              "source": "@site/docs/foundations/core-concepts.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/core-concepts",
+              "permalink": "/docs/foundations/core-concepts",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/core-concepts.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Core Concepts"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "History of AI",
+                "permalink": "/docs/foundations/history"
+              },
+              "next": {
+                "title": "Types of AI",
+                "permalink": "/docs/foundations/types-of-ai"
+              }
+            },
+            {
+              "id": "foundations/history",
+              "title": "History of AI",
+              "description": "Understanding the history of Artificial Intelligence helps us appreciate how the field has evolved and where it might be heading.",
+              "source": "@site/docs/foundations/history.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/history",
+              "permalink": "/docs/foundations/history",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/history.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "History of AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quick Start",
+                "permalink": "/docs/getting-started/quick-start"
+              },
+              "next": {
+                "title": "Core Concepts",
+                "permalink": "/docs/foundations/core-concepts"
+              }
+            },
+            {
+              "id": "foundations/types-of-ai",
+              "title": "Types of AI",
+              "description": "Artificial Intelligence can be categorized in multiple ways, each highlighting different characteristics and capabilities of AI systems.",
+              "source": "@site/docs/foundations/types-of-ai.md",
+              "sourceDirName": "foundations",
+              "slug": "/foundations/types-of-ai",
+              "permalink": "/docs/foundations/types-of-ai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/types-of-ai.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Types of AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Core Concepts",
+                "permalink": "/docs/foundations/core-concepts"
+              },
+              "next": {
+                "title": "AI Ethics",
+                "permalink": "/docs/foundations/ai-ethics"
+              }
+            },
+            {
+              "id": "getting-started/installation",
+              "title": "Installation",
+              "description": "This guide will help you set up the tools and environment needed to work with AI concepts covered in this textbook.",
+              "source": "@site/docs/getting-started/installation.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/installation",
+              "permalink": "/docs/getting-started/installation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/installation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Installation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to AI Textbook",
+                "permalink": "/docs/docs/intro"
+              },
+              "next": {
+                "title": "Quick Start",
+                "permalink": "/docs/getting-started/quick-start"
+              }
+            },
+            {
+              "id": "getting-started/quick-start",
+              "title": "Quick Start",
+              "description": "Get started with AI by working through this hands-on introduction that covers the basics and demonstrates core concepts.",
+              "source": "@site/docs/getting-started/quick-start.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/quick-start",
+              "permalink": "/docs/getting-started/quick-start",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/quick-start.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Quick Start"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/docs/getting-started/installation"
+              },
+              "next": {
+                "title": "History of AI",
+                "permalink": "/docs/foundations/history"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Introduction to AI Textbook",
+              "description": "Welcome to the comprehensive guide to Artificial Intelligence! This textbook is designed to provide a thorough understanding of AI concepts, techniques, and applications for students, researchers, and practitioners.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/docs/intro",
+              "permalink": "/docs/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "/docs/intro"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Installation",
+                "permalink": "/docs/getting-started/installation"
+              }
+            },
+            {
+              "id": "ml/deep-learning",
+              "title": "Deep Learning",
+              "description": "Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers (hence \"deep\") to learn complex patterns from large amounts of data. It has revolutionized fields such as computer vision, natural language processing, and speech recognition.",
+              "source": "@site/docs/ml/deep-learning.md",
+              "sourceDirName": "ml",
+              "slug": "/ml/deep-learning",
+              "permalink": "/docs/ml/deep-learning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/deep-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Deep Learning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reinforcement Learning",
+                "permalink": "/docs/ml/reinforcement-learning"
+              },
+              "next": {
+                "title": "Introduction to NLP",
+                "permalink": "/docs/nlp/introduction"
+              }
+            },
+            {
+              "id": "ml/introduction",
+              "title": "Introduction to Machine Learning",
+              "description": "Machine Learning (ML) is a subset of artificial intelligence that focuses on building systems that can learn from data without being explicitly programmed for every task. This section provides an overview of ML concepts, types, and applications.",
+              "source": "@site/docs/ml/introduction.md",
+              "sourceDirName": "ml",
+              "slug": "/ml/introduction",
+              "permalink": "/docs/ml/introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Introduction to ML"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AI Ethics",
+                "permalink": "/docs/foundations/ai-ethics"
+              },
+              "next": {
+                "title": "Supervised Learning",
+                "permalink": "/docs/ml/supervised-learning"
+              }
+            },
+            {
+              "id": "ml/reinforcement-learning",
+              "title": "Reinforcement Learning",
+              "description": "Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions and aims to maximize the cumulative reward over time through trial and error.",
+              "source": "@site/docs/ml/reinforcement-learning.md",
+              "sourceDirName": "ml",
+              "slug": "/ml/reinforcement-learning",
+              "permalink": "/docs/ml/reinforcement-learning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/reinforcement-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Reinforcement Learning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Unsupervised Learning",
+                "permalink": "/docs/ml/unsupervised-learning"
+              },
+              "next": {
+                "title": "Deep Learning",
+                "permalink": "/docs/ml/deep-learning"
+              }
+            },
+            {
+              "id": "ml/supervised-learning",
+              "title": "Supervised Learning",
+              "description": "Supervised learning is a type of machine learning where the model is trained on a labeled dataset, meaning the input data is paired with the correct output. The goal is to learn a mapping from inputs to outputs that can be used to predict the output for new, unseen inputs.",
+              "source": "@site/docs/ml/supervised-learning.md",
+              "sourceDirName": "ml",
+              "slug": "/ml/supervised-learning",
+              "permalink": "/docs/ml/supervised-learning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/supervised-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Supervised Learning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to ML",
+                "permalink": "/docs/ml/introduction"
+              },
+              "next": {
+                "title": "Unsupervised Learning",
+                "permalink": "/docs/ml/unsupervised-learning"
+              }
+            },
+            {
+              "id": "ml/unsupervised-learning",
+              "title": "Unsupervised Learning",
+              "description": "Unsupervised learning is a type of machine learning where the model is trained on unlabeled data, meaning the input data does not have corresponding output labels. The goal is to discover hidden patterns, structures, or relationships in the data without explicit guidance.",
+              "source": "@site/docs/ml/unsupervised-learning.md",
+              "sourceDirName": "ml",
+              "slug": "/ml/unsupervised-learning",
+              "permalink": "/docs/ml/unsupervised-learning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/unsupervised-learning.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Unsupervised Learning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Supervised Learning",
+                "permalink": "/docs/ml/supervised-learning"
+              },
+              "next": {
+                "title": "Reinforcement Learning",
+                "permalink": "/docs/ml/reinforcement-learning"
+              }
+            },
+            {
+              "id": "nlp/applications",
+              "title": "Natural Language Processing Applications",
+              "description": "Natural Language Processing (NLP) has found application across numerous domains, transforming how we interact with technology and analyze textual data. This section explores key applications of NLP, their implementation approaches, and real-world impact.",
+              "source": "@site/docs/nlp/applications.md",
+              "sourceDirName": "nlp",
+              "slug": "/nlp/applications",
+              "permalink": "/docs/nlp/applications",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/applications.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "NLP Applications"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Language Models",
+                "permalink": "/docs/nlp/language-models"
+              },
+              "next": {
+                "title": "Introduction to Computer Vision",
+                "permalink": "/docs/cv/introduction"
+              }
+            },
+            {
+              "id": "nlp/introduction",
+              "title": "Introduction to Natural Language Processing",
+              "description": "Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The ultimate objective of NLP is to enable computers to understand, interpret, and generate human language in a valuable way.",
+              "source": "@site/docs/nlp/introduction.md",
+              "sourceDirName": "nlp",
+              "slug": "/nlp/introduction",
+              "permalink": "/docs/nlp/introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Introduction to NLP"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deep Learning",
+                "permalink": "/docs/ml/deep-learning"
+              },
+              "next": {
+                "title": "Text Processing Techniques",
+                "permalink": "/docs/nlp/text-processing"
+              }
+            },
+            {
+              "id": "nlp/language-models",
+              "title": "Language Models",
+              "description": "Language models are fundamental components in Natural Language Processing that assign probabilities to sequences of words. They are used to predict the likelihood of a word given the preceding context or to generate new text that resembles human language.",
+              "source": "@site/docs/nlp/language-models.md",
+              "sourceDirName": "nlp",
+              "slug": "/nlp/language-models",
+              "permalink": "/docs/nlp/language-models",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/language-models.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Language Models"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Text Processing Techniques",
+                "permalink": "/docs/nlp/text-processing"
+              },
+              "next": {
+                "title": "NLP Applications",
+                "permalink": "/docs/nlp/applications"
+              }
+            },
+            {
+              "id": "nlp/text-processing",
+              "title": "Text Processing Techniques",
+              "description": "Text processing forms the foundation of Natural Language Processing applications. This section explores the essential techniques used to clean, transform, and prepare textual data for analysis and modeling.",
+              "source": "@site/docs/nlp/text-processing.md",
+              "sourceDirName": "nlp",
+              "slug": "/nlp/text-processing",
+              "permalink": "/docs/nlp/text-processing",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/text-processing.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar_label": "Text Processing Techniques"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to NLP",
+                "permalink": "/docs/nlp/introduction"
+              },
+              "next": {
+                "title": "Language Models",
+                "permalink": "/docs/nlp/language-models"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "getting-started/installation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "getting-started/quick-start"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Foundations of AI",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "foundations/history"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "foundations/core-concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "foundations/types-of-ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "foundations/ai-ethics"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Machine Learning",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ml/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ml/supervised-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ml/unsupervised-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ml/reinforcement-learning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ml/deep-learning"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Natural Language Processing",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "nlp/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "nlp/text-processing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "nlp/language-models"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "nlp/applications"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Computer Vision",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "cv/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cv/image-processing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cv/object-detection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cv/applications"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "AI Applications",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "applications/healthcare"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "applications/finance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "applications/autonomous-systems"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "applications/robotics"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2023/01/01/welcome",
+          "metadata": {
+            "permalink": "/blog/2023/01/01/welcome",
+            "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/blog/2023-01-01-welcome.md",
+            "source": "@site/blog/2023-01-01-welcome.md",
+            "title": "Welcome to the AI Textbook Blog",
+            "description": "Welcome to the official blog of the AI Textbook Project — a mission-driven initiative designed to make artificial intelligence education accessible for learners, developers, and innovators across the globe.",
+            "date": "2023-01-01T00:00:00.000Z",
+            "formattedDate": "January 1, 2023",
+            "tags": [
+              {
+                "label": "ai",
+                "permalink": "/blog/tags/ai"
+              },
+              {
+                "label": "machine learning",
+                "permalink": "/blog/tags/machine-learning"
+              },
+              {
+                "label": "education",
+                "permalink": "/blog/tags/education"
+              },
+              {
+                "label": "robotics",
+                "permalink": "/blog/tags/robotics"
+              },
+              {
+                "label": "genai",
+                "permalink": "/blog/tags/genai"
+              },
+              {
+                "label": "research",
+                "permalink": "/blog/tags/research"
+              }
+            ],
+            "readingTime": 3.56,
+            "hasTruncateMarker": false,
+            "authors": [],
+            "frontMatter": {
+              "title": "Welcome to the AI Textbook Blog",
+              "tags": [
+                "ai",
+                "machine learning",
+                "education",
+                "robotics",
+                "genai",
+                "research"
+              ]
+            },
+            "unlisted": false
+          },
+          "content": "Welcome to the official blog of the **AI Textbook Project** — a mission-driven initiative designed to make artificial intelligence education accessible for learners, developers, and innovators across the globe.\n\nThis blog is your dedicated space for **deep insights**, **practical knowledge**, and **cutting-edge developments** in AI, machine learning, robotics, and data-driven technologies.\n\n---\n\n## 🌍 Our Mission & Vision\n\nArtificial Intelligence is no longer a distant concept — it is shaping our world in real-time.\n\nThe **AI Textbook Project** exists with a clear mission:\n\n- To provide **free, high-quality AI education**  \n- To make AI **understandable for students of all skill levels**  \n- To offer **industry-aligned content**  \n- And to build a **global community of learners** who can create the future together  \n\nOur goal is to bring AI education to every classroom, home, and curious mind.\n\n---\n\n## 🧠 What You Will Find on This Blog\n\nThis blog is crafted to help students, researchers, and professionals stay ahead in the world of AI.\n\nHere are the types of content you can expect:\n\n### 📘 1. In-Depth Tutorials & Guides  \nStep-by-step tutorials that simplify concepts like:\n- Neural Networks  \n- Transformers  \n- Reinforcement Learning  \n- Fine-tuning LLMs  \n- Computer Vision fundamentals  \n- Robot control systems  \n- GenAI pipelines  \n\n### 🚀 2. Breakthrough Research Summaries  \nWe translate complex research into easy-to-understand insights, including:\n- Recent papers  \n- New AI benchmarks  \n- Emerging models  \n- State-of-the-art results  \n\n### 🧪 3. Real-World Case Studies  \nExamples of AI transforming industries:\n- Healthcare diagnostics  \n- Autonomous vehicles  \n- Finance risk predictions  \n- Smart agriculture  \n- Robotics & automation  \n- Natural language systems (chatbots, translators, agents)  \n\n### ⚖️ 4. Ethics, Governance & Responsible AI  \nWe explore:\n- Bias in AI  \n- Fairness  \n- Privacy concerns  \n- Global AI regulations  \n- Safe development practices  \n\n### 🎓 5. Educational Resources  \nFree learning materials:\n- Cheat sheets  \n- Concept maps  \n- Project ideas  \n- Interview questions  \n- Study guides  \n\n---\n\n## 📡 Latest Trends Reshaping the Future of AI\n\nThe world of AI is moving faster than ever before. Here are some of the most impactful trends of this year:\n\n### 🔊 1. Large Language Models (LLMs)  \nModels like GPT, Claude, Gemini, and open-source models are reshaping:\n- Education  \n- Coding  \n- Research  \n- Creative fields  \n- Decision-making  \n\n### 🖼️ 2. Multimodal AI  \nAI systems can now understand:\n- Text  \n- Images  \n- Audio  \n- Video  \n- Sensor data  \n\nThis has unleashed a new era of interactive AI systems.\n\n### ⚙️ 3. Edge & Efficient AI  \nSmaller, faster models designed to run on:\n- Phones  \n- Robots  \n- IoT devices  \n\n### 🤝 4. AGI Discussions & Future Predictions  \nResearchers are exploring:\n- Limits of intelligence  \n- Human-AI collaboration  \n- Automation’s impact on jobs  \n- Safety alignment  \n\n### 🦾 5. Robotics + AI Fusion  \nModern robots now use AI for:\n- Vision  \n- Navigation  \n- Manipulation  \n- Speech  \n- Learning from human demonstrations  \n\nThis area is growing rapidly—and the AI Textbook will cover these topics deeply.\n\n---\n\n## 🛠️ Behind the Scenes: How the AI Textbook is Built\n\nOur textbook is powered by:\n\n- Real research papers  \n- Modern engineering practices  \n- Step-by-step breakdowns  \n- Interactive examples  \n- GenAI-powered tools and explanations  \n- Community-driven contributions  \n\nEvery chapter is designed to take learners from **zero to mastery**, even without prior knowledge.\n\n---\n\n## 🎯 Who This Blog is For\n\nThis blog welcomes:\n\n- Students starting their AI journey  \n- Developers who want to upskill  \n- Researchers looking for easy explanations  \n- Engineers working on automation & robotics  \n- Teachers searching for updated AI material  \n- Curious minds who love technology  \n\nIf you're passionate about understanding the future — you are in the right place.\n\n---\n\n## 🤝 Contribute & Join the Community\n\nWe believe in **open knowledge**.\n\nIf you want to contribute:\n- Share tutorials  \n- Write articles  \n- Add new features  \n- Suggest improvements  \n- Submit case studies  \n\nThen simply head over to our  \n👉 **[GitHub Repository](https://github.com/HareemZafar04)**  \nand submit a pull request.\n\nYour contribution could help thousands of learners worldwide.\n\n---\n\n## 🌟 Stay Connected\n\nMore articles, tutorials, and interactive lessons are coming soon!\n\nThank you for being part of this journey toward accessible AI education.  \nStay curious. Stay inspired. And keep exploring the world of artificial intelligence.\n\nWelcome to the **future of learning.**"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/ai": {
+          "label": "ai",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/ai",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/ai",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/machine-learning": {
+          "label": "machine learning",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/machine-learning",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/machine-learning",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/education": {
+          "label": "education",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/education",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/education",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/robotics": {
+          "label": "robotics",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/robotics",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/robotics",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/genai": {
+          "label": "genai",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/genai",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/genai",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/research": {
+          "label": "research",
+          "items": [
+            "/2023/01/01/welcome"
+          ],
+          "permalink": "/blog/tags/research",
+          "pages": [
+            {
+              "items": [
+                "/2023/01/01/welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/research",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.mdx",
+        "title": "Physical AI & Humanoid Robotics",
+        "description": "Official AI Textbook Homepage",
+        "frontMatter": {
+          "title": "Physical AI & Humanoid Robotics",
+          "description": "Official AI Textbook Homepage"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

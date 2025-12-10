@@ -1,0 +1,22 @@
+{
+  "id": "applications/robotics",
+  "title": "Robotics Applications",
+  "description": "Robotics is an interdisciplinary field that integrates mechanical engineering, electrical engineering, computer science, and artificial intelligence to design, construct, operate, and apply robots. This section explores the various applications of AI in robotics and their impact on different industries.",
+  "source": "@site/docs/applications/robotics.md",
+  "sourceDirName": "applications",
+  "slug": "/applications/robotics",
+  "permalink": "/docs/applications/robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/robotics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Robotics Applications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "autonomous-systems",
+    "permalink": "/docs/applications/autonomous-systems"
+  }
+}
