@@ -1,7 +1,3 @@
----
-slug: /docs/intro
----
-
 # Introduction to AI Textbook
 
 Welcome to the comprehensive guide to Artificial Intelligence! This textbook is designed to provide a thorough understanding of AI concepts, techniques, and applications for students, researchers, and practitioners.
