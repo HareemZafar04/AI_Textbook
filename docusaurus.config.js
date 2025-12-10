@@ -15,7 +15,13 @@ const config = {
   projectName: 'ai-textbook',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn', // Keep this for now to avoid breaking changes
+  markdown: {
+    format: 'detect',
+    mermaid: false,
+    externalLinksTarget: '_blank',
+    externalLinksRel: 'nofollow noopener noreferrer',
+  },
 
   i18n: {
     defaultLocale: 'en',
