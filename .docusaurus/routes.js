@@ -3,243 +3,254 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'b5f'),
+    path: '/ai-textbook/__docusaurus/debug',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug', '24c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '417'),
+    path: '/ai-textbook/__docusaurus/debug/config',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/config', 'aa8'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'fa3'),
+    path: '/ai-textbook/__docusaurus/debug/content',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/content', '622'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'a26'),
+    path: '/ai-textbook/__docusaurus/debug/globalData',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/globalData', '666'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '088'),
+    path: '/ai-textbook/__docusaurus/debug/metadata',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/metadata', 'f1b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '8a9'),
+    path: '/ai-textbook/__docusaurus/debug/registry',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/registry', '464'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '0d3'),
+    path: '/ai-textbook/__docusaurus/debug/routes',
+    component: ComponentCreator('/ai-textbook/__docusaurus/debug/routes', 'd30'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'e10'),
+    path: '/ai-textbook/blog',
+    component: ComponentCreator('/ai-textbook/blog', '0ad'),
     exact: true
   },
   {
-    path: '/blog/2023/01/01/welcome',
-    component: ComponentCreator('/blog/2023/01/01/welcome', '5ac'),
+    path: '/ai-textbook/blog/2023/01/01/welcome',
+    component: ComponentCreator('/ai-textbook/blog/2023/01/01/welcome', '349'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'e2b'),
+    path: '/ai-textbook/blog/archive',
+    component: ComponentCreator('/ai-textbook/blog/archive', '362'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '1f9'),
+    path: '/ai-textbook/blog/tags',
+    component: ComponentCreator('/ai-textbook/blog/tags', '53d'),
     exact: true
   },
   {
-    path: '/blog/tags/ai',
-    component: ComponentCreator('/blog/tags/ai', 'c87'),
+    path: '/ai-textbook/blog/tags/ai',
+    component: ComponentCreator('/ai-textbook/blog/tags/ai', '7d0'),
     exact: true
   },
   {
-    path: '/blog/tags/education',
-    component: ComponentCreator('/blog/tags/education', '952'),
+    path: '/ai-textbook/blog/tags/education',
+    component: ComponentCreator('/ai-textbook/blog/tags/education', '111'),
     exact: true
   },
   {
-    path: '/blog/tags/genai',
-    component: ComponentCreator('/blog/tags/genai', '82c'),
+    path: '/ai-textbook/blog/tags/genai',
+    component: ComponentCreator('/ai-textbook/blog/tags/genai', '81e'),
     exact: true
   },
   {
-    path: '/blog/tags/machine-learning',
-    component: ComponentCreator('/blog/tags/machine-learning', '884'),
+    path: '/ai-textbook/blog/tags/machine-learning',
+    component: ComponentCreator('/ai-textbook/blog/tags/machine-learning', 'd73'),
     exact: true
   },
   {
-    path: '/blog/tags/research',
-    component: ComponentCreator('/blog/tags/research', '395'),
+    path: '/ai-textbook/blog/tags/research',
+    component: ComponentCreator('/ai-textbook/blog/tags/research', '3ad'),
     exact: true
   },
   {
-    path: '/blog/tags/robotics',
-    component: ComponentCreator('/blog/tags/robotics', 'b5e'),
+    path: '/ai-textbook/blog/tags/robotics',
+    component: ComponentCreator('/ai-textbook/blog/tags/robotics', 'fcf'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'dff'),
+    path: '/ai-textbook/quiz',
+    component: ComponentCreator('/ai-textbook/quiz', '7cf'),
+    exact: true
+  },
+  {
+    path: '/ai-textbook/docs',
+    component: ComponentCreator('/ai-textbook/docs', 'c9f'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '259'),
+        path: '/ai-textbook/docs',
+        component: ComponentCreator('/ai-textbook/docs', 'e96'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'de5'),
+            path: '/ai-textbook/docs',
+            component: ComponentCreator('/ai-textbook/docs', 'b2f'),
             routes: [
               {
-                path: '/docs/applications/autonomous-systems',
-                component: ComponentCreator('/docs/applications/autonomous-systems', '824'),
+                path: '/ai-textbook/docs/applications/autonomous-systems',
+                component: ComponentCreator('/ai-textbook/docs/applications/autonomous-systems', '3fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/applications/finance',
-                component: ComponentCreator('/docs/applications/finance', 'f70'),
+                path: '/ai-textbook/docs/applications/finance',
+                component: ComponentCreator('/ai-textbook/docs/applications/finance', 'b58'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/applications/healthcare',
-                component: ComponentCreator('/docs/applications/healthcare', '52c'),
+                path: '/ai-textbook/docs/applications/healthcare',
+                component: ComponentCreator('/ai-textbook/docs/applications/healthcare', 'bc5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/applications/robotics',
-                component: ComponentCreator('/docs/applications/robotics', 'a3e'),
+                path: '/ai-textbook/docs/applications/robotics',
+                component: ComponentCreator('/ai-textbook/docs/applications/robotics', 'a0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cv/applications',
-                component: ComponentCreator('/docs/cv/applications', 'af9'),
+                path: '/ai-textbook/docs/cv/applications',
+                component: ComponentCreator('/ai-textbook/docs/cv/applications', '319'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cv/image-processing',
-                component: ComponentCreator('/docs/cv/image-processing', 'a61'),
+                path: '/ai-textbook/docs/cv/image-processing',
+                component: ComponentCreator('/ai-textbook/docs/cv/image-processing', 'b5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cv/introduction',
-                component: ComponentCreator('/docs/cv/introduction', 'b5a'),
+                path: '/ai-textbook/docs/cv/introduction',
+                component: ComponentCreator('/ai-textbook/docs/cv/introduction', '0f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/cv/object-detection',
-                component: ComponentCreator('/docs/cv/object-detection', '741'),
+                path: '/ai-textbook/docs/cv/object-detection',
+                component: ComponentCreator('/ai-textbook/docs/cv/object-detection', 'd09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/docs/intro',
-                component: ComponentCreator('/docs/docs/intro', 'e37'),
+                path: '/ai-textbook/docs/foundations/ai-ethics',
+                component: ComponentCreator('/ai-textbook/docs/foundations/ai-ethics', 'f49'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/foundations/ai-ethics',
-                component: ComponentCreator('/docs/foundations/ai-ethics', 'e6d'),
+                path: '/ai-textbook/docs/foundations/core-concepts',
+                component: ComponentCreator('/ai-textbook/docs/foundations/core-concepts', '067'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/foundations/core-concepts',
-                component: ComponentCreator('/docs/foundations/core-concepts', '3fa'),
+                path: '/ai-textbook/docs/foundations/history',
+                component: ComponentCreator('/ai-textbook/docs/foundations/history', 'f68'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/foundations/history',
-                component: ComponentCreator('/docs/foundations/history', 'fa3'),
+                path: '/ai-textbook/docs/foundations/types-of-ai',
+                component: ComponentCreator('/ai-textbook/docs/foundations/types-of-ai', '840'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/foundations/types-of-ai',
-                component: ComponentCreator('/docs/foundations/types-of-ai', '95e'),
+                path: '/ai-textbook/docs/getting-started/installation',
+                component: ComponentCreator('/ai-textbook/docs/getting-started/installation', '9dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/installation',
-                component: ComponentCreator('/docs/getting-started/installation', '490'),
+                path: '/ai-textbook/docs/getting-started/quick-start',
+                component: ComponentCreator('/ai-textbook/docs/getting-started/quick-start', '2e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/getting-started/quick-start',
-                component: ComponentCreator('/docs/getting-started/quick-start', 'c34'),
+                path: '/ai-textbook/docs/intro',
+                component: ComponentCreator('/ai-textbook/docs/intro', '41a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ml/deep-learning',
-                component: ComponentCreator('/docs/ml/deep-learning', '5c9'),
+                path: '/ai-textbook/docs/ml/deep-learning',
+                component: ComponentCreator('/ai-textbook/docs/ml/deep-learning', '1ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ml/introduction',
-                component: ComponentCreator('/docs/ml/introduction', '359'),
+                path: '/ai-textbook/docs/ml/introduction',
+                component: ComponentCreator('/ai-textbook/docs/ml/introduction', '493'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ml/reinforcement-learning',
-                component: ComponentCreator('/docs/ml/reinforcement-learning', '74f'),
+                path: '/ai-textbook/docs/ml/reinforcement-learning',
+                component: ComponentCreator('/ai-textbook/docs/ml/reinforcement-learning', 'b93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ml/supervised-learning',
-                component: ComponentCreator('/docs/ml/supervised-learning', '88f'),
+                path: '/ai-textbook/docs/ml/supervised-learning',
+                component: ComponentCreator('/ai-textbook/docs/ml/supervised-learning', '618'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ml/unsupervised-learning',
-                component: ComponentCreator('/docs/ml/unsupervised-learning', 'd93'),
+                path: '/ai-textbook/docs/ml/unsupervised-learning',
+                component: ComponentCreator('/ai-textbook/docs/ml/unsupervised-learning', 'fef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/nlp/applications',
-                component: ComponentCreator('/docs/nlp/applications', '723'),
+                path: '/ai-textbook/docs/nlp/applications',
+                component: ComponentCreator('/ai-textbook/docs/nlp/applications', '777'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/nlp/introduction',
-                component: ComponentCreator('/docs/nlp/introduction', 'a3c'),
+                path: '/ai-textbook/docs/nlp/introduction',
+                component: ComponentCreator('/ai-textbook/docs/nlp/introduction', '3f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/nlp/language-models',
-                component: ComponentCreator('/docs/nlp/language-models', 'f63'),
+                path: '/ai-textbook/docs/nlp/language-models',
+                component: ComponentCreator('/ai-textbook/docs/nlp/language-models', '9e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/nlp/text-processing',
-                component: ComponentCreator('/docs/nlp/text-processing', '0a0'),
+                path: '/ai-textbook/docs/nlp/text-processing',
+                component: ComponentCreator('/ai-textbook/docs/nlp/text-processing', '658'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ai-textbook/docs/quiz',
+                component: ComponentCreator('/ai-textbook/docs/quiz', '530'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -250,8 +261,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '9e4'),
+    path: '/ai-textbook/',
+    component: ComponentCreator('/ai-textbook/', '88e'),
     exact: true
   },
   {

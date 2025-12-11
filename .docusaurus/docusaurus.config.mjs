@@ -7,12 +7,33 @@ export default {
   "title": "AI Textbook",
   "tagline": "Comprehensive Guide to Artificial Intelligence",
   "favicon": "img/favicon.ico",
-  "url": "http://localhost",
-  "baseUrl": "/",
+  "url": "https://ai-textbook.github.io",
+  "baseUrl": "/ai-textbook/",
   "organizationName": "ai-textbook",
   "projectName": "ai-textbook",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "markdown": {
+    "format": "detect",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    }
+  },
+  "customFields": {
+    "externalLinksTarget": "_blank",
+    "externalLinksRel": "nofollow noopener noreferrer",
+    "mdx1CompatibleSyntax": true
+  },
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -49,10 +70,15 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "type": "doc",
+          "docId": "intro",
           "position": "left",
           "label": "Documentation"
+        },
+        {
+          "to": "/quiz",
+          "label": "Quiz",
+          "position": "left"
         },
         {
           "to": "/blog",
@@ -332,6 +358,11 @@ export default {
         "autoCollapseCategories": false
       }
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -339,12 +370,32 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
-  "customFields": {},
   "plugins": [],
   "themes": [],
   "scripts": [],
@@ -352,14 +403,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "format": "mdx",
-    "mermaid": false,
-    "mdx1Compat": {
-      "comments": true,
-      "admonitions": true,
-      "headingIds": true
-    }
-  }
+  "noIndex": false
 };

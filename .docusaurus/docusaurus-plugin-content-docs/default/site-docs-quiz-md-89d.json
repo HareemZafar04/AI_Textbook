@@ -1,0 +1,24 @@
+{
+  "id": "quiz",
+  "title": "AI Textbook Quiz",
+  "description": "Welcome to the interactive quiz system of the AI Textbook! This feature allows you to test your knowledge as you progress through the textbook content.",
+  "source": "@site/docs/quiz.md",
+  "sourceDirName": ".",
+  "slug": "/quiz",
+  "permalink": "/ai-textbook/docs/quiz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/quiz.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "title": "AI Textbook Quiz",
+    "sidebar_position": 99
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robotics Applications",
+    "permalink": "/ai-textbook/docs/applications/robotics"
+  }
+}

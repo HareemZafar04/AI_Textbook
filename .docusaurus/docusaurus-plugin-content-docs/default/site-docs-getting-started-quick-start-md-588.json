@@ -5,7 +5,7 @@
   "source": "@site/docs/getting-started/quick-start.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/quick-start",
-  "permalink": "/docs/getting-started/quick-start",
+  "permalink": "/ai-textbook/docs/getting-started/quick-start",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/quick-start.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installation",
-    "permalink": "/docs/getting-started/installation"
+    "permalink": "/ai-textbook/docs/getting-started/installation"
   },
   "next": {
     "title": "History of AI",
-    "permalink": "/docs/foundations/history"
+    "permalink": "/ai-textbook/docs/foundations/history"
   }
 }

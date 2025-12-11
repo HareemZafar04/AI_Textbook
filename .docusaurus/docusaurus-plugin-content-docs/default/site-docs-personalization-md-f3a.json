@@ -1,0 +1,24 @@
+{
+  "id": "personalization",
+  "title": "Content Personalization",
+  "description": "The AI Textbook offers a personalized learning experience through our Personalization Agent. This feature adapts content to match your individual learning preferences, interests, and goals.",
+  "source": "@site/docs/personalization.md",
+  "sourceDirName": ".",
+  "slug": "/personalization",
+  "permalink": "/ai-textbook/docs/personalization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/personalization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 98,
+  "frontMatter": {
+    "title": "Content Personalization",
+    "sidebar_position": 98
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Textbook Quiz",
+    "permalink": "/ai-textbook/docs/quiz"
+  }
+}

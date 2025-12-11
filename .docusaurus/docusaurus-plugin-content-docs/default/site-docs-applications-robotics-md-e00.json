@@ -5,7 +5,7 @@
   "source": "@site/docs/applications/robotics.md",
   "sourceDirName": "applications",
   "slug": "/applications/robotics",
-  "permalink": "/docs/applications/robotics",
+  "permalink": "/ai-textbook/docs/applications/robotics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/robotics.md",
@@ -17,6 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "autonomous-systems",
-    "permalink": "/docs/applications/autonomous-systems"
+    "permalink": "/ai-textbook/docs/applications/autonomous-systems"
+  },
+  "next": {
+    "title": "AI Textbook Quiz",
+    "permalink": "/ai-textbook/docs/quiz"
   }
 }

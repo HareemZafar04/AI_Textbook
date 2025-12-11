@@ -1,39 +1,44 @@
 {
-  "permalink": "/blog/2023/01/01/welcome",
+  "permalink": "/ai-textbook/blog/2023/01/01/welcome",
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/blog/2023-01-01-welcome.md",
   "source": "@site/blog/2023-01-01-welcome.md",
   "title": "Welcome to the AI Textbook Blog",
   "description": "Welcome to the official blog of the AI Textbook Project — a mission-driven initiative designed to make artificial intelligence education accessible for learners, developers, and innovators across the globe.",
   "date": "2023-01-01T00:00:00.000Z",
-  "formattedDate": "January 1, 2023",
   "tags": [
     {
+      "inline": true,
       "label": "ai",
-      "permalink": "/blog/tags/ai"
+      "permalink": "/ai-textbook/blog/tags/ai"
     },
     {
+      "inline": true,
       "label": "machine learning",
-      "permalink": "/blog/tags/machine-learning"
+      "permalink": "/ai-textbook/blog/tags/machine-learning"
     },
     {
+      "inline": true,
       "label": "education",
-      "permalink": "/blog/tags/education"
+      "permalink": "/ai-textbook/blog/tags/education"
     },
     {
+      "inline": true,
       "label": "robotics",
-      "permalink": "/blog/tags/robotics"
+      "permalink": "/ai-textbook/blog/tags/robotics"
     },
     {
+      "inline": true,
       "label": "genai",
-      "permalink": "/blog/tags/genai"
+      "permalink": "/ai-textbook/blog/tags/genai"
     },
     {
+      "inline": true,
       "label": "research",
-      "permalink": "/blog/tags/research"
+      "permalink": "/ai-textbook/blog/tags/research"
     }
   ],
-  "readingTime": 3.56,
-  "hasTruncateMarker": false,
+  "readingTime": 3.08,
+  "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {
     "title": "Welcome to the AI Textbook Blog",

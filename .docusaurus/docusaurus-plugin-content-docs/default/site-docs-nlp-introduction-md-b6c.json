@@ -5,7 +5,7 @@
   "source": "@site/docs/nlp/introduction.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/introduction",
-  "permalink": "/docs/nlp/introduction",
+  "permalink": "/ai-textbook/docs/nlp/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/introduction.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deep Learning",
-    "permalink": "/docs/ml/deep-learning"
+    "permalink": "/ai-textbook/docs/ml/deep-learning"
   },
   "next": {
     "title": "Text Processing Techniques",
-    "permalink": "/docs/nlp/text-processing"
+    "permalink": "/ai-textbook/docs/nlp/text-processing"
   }
 }

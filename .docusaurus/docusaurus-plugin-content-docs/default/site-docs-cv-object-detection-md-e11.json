@@ -5,7 +5,7 @@
   "source": "@site/docs/cv/object-detection.md",
   "sourceDirName": "cv",
   "slug": "/cv/object-detection",
-  "permalink": "/docs/cv/object-detection",
+  "permalink": "/ai-textbook/docs/cv/object-detection",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/object-detection.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Image Processing in Computer Vision",
-    "permalink": "/docs/cv/image-processing"
+    "permalink": "/ai-textbook/docs/cv/image-processing"
   },
   "next": {
     "title": "Computer Vision Applications",
-    "permalink": "/docs/cv/applications"
+    "permalink": "/ai-textbook/docs/cv/applications"
   }
 }

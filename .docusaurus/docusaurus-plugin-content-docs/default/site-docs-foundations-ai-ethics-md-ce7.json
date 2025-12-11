@@ -5,7 +5,7 @@
   "source": "@site/docs/foundations/ai-ethics.md",
   "sourceDirName": "foundations",
   "slug": "/foundations/ai-ethics",
-  "permalink": "/docs/foundations/ai-ethics",
+  "permalink": "/ai-textbook/docs/foundations/ai-ethics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/ai-ethics.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Types of AI",
-    "permalink": "/docs/foundations/types-of-ai"
+    "permalink": "/ai-textbook/docs/foundations/types-of-ai"
   },
   "next": {
     "title": "Introduction to ML",
-    "permalink": "/docs/ml/introduction"
+    "permalink": "/ai-textbook/docs/ml/introduction"
   }
 }

@@ -9,8 +9,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://ai-textbook.github.io',  // Updated for GitHub Pages
+  baseUrl: '/ai-textbook/',  // Updated for GitHub Pages subdirectory
   organizationName: 'ai-textbook',
   projectName: 'ai-textbook',
 
@@ -19,8 +19,11 @@ const config = {
   markdown: {
     format: 'detect',
     mermaid: false,
+  },
+  customFields: {
     externalLinksTarget: '_blank',
     externalLinksRel: 'nofollow noopener noreferrer',
+    mdx1CompatibleSyntax: true,
   },
 
   i18n: {
@@ -67,7 +70,7 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          // ❌ REMOVED: {to: '/ai-textbook', label: 'AI Textbook', position: 'left'},
+          { to: '/quiz', label: 'Quiz', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/ai-textbook/ai-textbook',

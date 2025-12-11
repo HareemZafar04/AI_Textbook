@@ -5,7 +5,7 @@
   "source": "@site/docs/ml/deep-learning.md",
   "sourceDirName": "ml",
   "slug": "/ml/deep-learning",
-  "permalink": "/docs/ml/deep-learning",
+  "permalink": "/ai-textbook/docs/ml/deep-learning",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/deep-learning.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Reinforcement Learning",
-    "permalink": "/docs/ml/reinforcement-learning"
+    "permalink": "/ai-textbook/docs/ml/reinforcement-learning"
   },
   "next": {
     "title": "Introduction to NLP",
-    "permalink": "/docs/nlp/introduction"
+    "permalink": "/ai-textbook/docs/nlp/introduction"
   }
 }

@@ -344,7 +344,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to AI Textbook",
-                "permalink": "/docs/docs/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Quick Start",
@@ -383,16 +383,14 @@
               "description": "Welcome to the comprehensive guide to Artificial Intelligence! This textbook is designed to provide a thorough understanding of AI concepts, techniques, and applications for students, researchers, and practitioners.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
-              "slug": "/docs/intro",
-              "permalink": "/docs/docs/intro",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/intro.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {
-                "slug": "/docs/intro"
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Installation",

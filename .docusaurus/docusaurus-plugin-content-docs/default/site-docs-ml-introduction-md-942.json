@@ -5,7 +5,7 @@
   "source": "@site/docs/ml/introduction.md",
   "sourceDirName": "ml",
   "slug": "/ml/introduction",
-  "permalink": "/docs/ml/introduction",
+  "permalink": "/ai-textbook/docs/ml/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/introduction.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AI Ethics",
-    "permalink": "/docs/foundations/ai-ethics"
+    "permalink": "/ai-textbook/docs/foundations/ai-ethics"
   },
   "next": {
     "title": "Supervised Learning",
-    "permalink": "/docs/ml/supervised-learning"
+    "permalink": "/ai-textbook/docs/ml/supervised-learning"
   }
 }

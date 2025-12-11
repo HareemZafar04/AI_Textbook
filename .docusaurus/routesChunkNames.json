@@ -1,281 +1,289 @@
 {
-  "/__docusaurus/debug-b5f": {
+  "/ai-textbook/__docusaurus/debug-24c": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/__docusaurus/debug/config-417": {
+  "/ai-textbook/__docusaurus/debug/config-aa8": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/__docusaurus/debug/content-fa3": {
+  "/ai-textbook/__docusaurus/debug/content-622": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "__props": "__props---ai-textbook-docusaurus-debug-content-2-cf-f9f"
   },
-  "/__docusaurus/debug/globalData-a26": {
+  "/ai-textbook/__docusaurus/debug/globalData-666": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/__docusaurus/debug/metadata-088": {
+  "/ai-textbook/__docusaurus/debug/metadata-f1b": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/__docusaurus/debug/registry-8a9": {
+  "/ai-textbook/__docusaurus/debug/registry-464": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/__docusaurus/debug/routes-0d3": {
+  "/ai-textbook/__docusaurus/debug/routes-d30": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugce-7-a9f"
+      "plugin": "plugin---ai-textbook-docusaurus-debugb-38-ec7"
     }
   },
-  "/blog-e10": {
+  "/ai-textbook/blog-0ad": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "__props": "__props---ai-textbook-blog-8-b-6-fb1"
   },
-  "/blog/2023/01/01/welcome-5ac": {
+  "/ai-textbook/blog/2023/01/01/welcome-349": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "data": {
+        "blogMetadata": "blogMetadata---ai-textbook-blog-2023-01-01-welcomeace-27b"
+      },
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-01-01-welcome-757-e5f"
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
+    "content": "content---ai-textbook-blog-2023-01-01-welcome-757-0eb"
   },
-  "/blog/archive-e2b": {
+  "/ai-textbook/blog/archive-362": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "__props": "__props---ai-textbook-blog-archive-8-b-3-31b"
   },
-  "/blog/tags-1f9": {
+  "/ai-textbook/blog/tags-53d": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
+    "__props": "__props---ai-textbook-blog-tagsb-85-955"
   },
-  "/blog/tags/ai-c87": {
+  "/ai-textbook/blog/tags/ai-7d0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-aif-32-543",
-    "listMetadata": "listMetadata---blog-tags-aiab-4-9b4"
+    "__props": "__props---ai-textbook-blog-tags-ai-9-b-1-8c4"
   },
-  "/blog/tags/education-952": {
+  "/ai-textbook/blog/tags/education-111": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-educatione-17-55a",
-    "listMetadata": "listMetadata---blog-tags-educationf-77-e58"
+    "__props": "__props---ai-textbook-blog-tags-educationaff-45e"
   },
-  "/blog/tags/genai-82c": {
+  "/ai-textbook/blog/tags/genai-81e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-genaieb-5-3d4",
-    "listMetadata": "listMetadata---blog-tags-genaie-1-b-66f"
+    "__props": "__props---ai-textbook-blog-tags-genai-7-fb-bba"
   },
-  "/blog/tags/machine-learning-884": {
+  "/ai-textbook/blog/tags/machine-learning-d73": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-machine-learningbec-9e1",
-    "listMetadata": "listMetadata---blog-tags-machine-learningcda-82e"
+    "__props": "__props---ai-textbook-blog-tags-machine-learningc-77-10c"
   },
-  "/blog/tags/research-395": {
+  "/ai-textbook/blog/tags/research-3ad": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-research-221-888",
-    "listMetadata": "listMetadata---blog-tags-researchfa-5-6ad"
+    "__props": "__props---ai-textbook-blog-tags-researchbe-3-cd0"
   },
-  "/blog/tags/robotics-b5e": {
+  "/ai-textbook/blog/tags/robotics-fcf": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogf-7-e-f9f"
+      "plugin": "plugin---ai-textbook-blog-369-bee"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ai-textbook-blog-814-669",
     "items": [
       {
-        "content": "content---blogace-42b"
+        "content": "content---ai-textbook-blogace-daa"
       }
     ],
-    "tag": "tag---blog-tags-robotics-38-e-641",
-    "listMetadata": "listMetadata---blog-tags-robotics-4-f-7-f56"
+    "__props": "__props---ai-textbook-blog-tags-roboticsc-48-ec9"
   },
-  "/docs-dff": {
+  "/ai-textbook/quiz-7cf": {
+    "__comp": "__comp---site-src-pages-quiz-jsxafd-013",
+    "__context": {
+      "plugin": "plugin---ai-textbook-quiza-74-429"
+    },
+    "config": "config---ai-textbook-quiz-5-e-9-1cd"
+  },
+  "/ai-textbook/docs-c9f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsf-2-e-466"
+      "plugin": "plugin---ai-textbook-docsaba-1e7"
     }
   },
-  "/docs-259": {
+  "/ai-textbook/docs-e96": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+    "__props": "__props---ai-textbook-docsd-63-a54"
   },
-  "/docs-de5": {
+  "/ai-textbook/docs-b2f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/applications/autonomous-systems-824": {
+  "/ai-textbook/docs/applications/autonomous-systems-3fc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-applications-autonomous-systemsb-07-50d"
+    "content": "content---ai-textbook-docs-applications-autonomous-systemsb-07-fac"
   },
-  "/docs/applications/finance-f70": {
+  "/ai-textbook/docs/applications/finance-b58": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-applications-finance-418-dae"
+    "content": "content---ai-textbook-docs-applications-finance-418-b60"
   },
-  "/docs/applications/healthcare-52c": {
+  "/ai-textbook/docs/applications/healthcare-bc5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-applications-healthcare-38-e-509"
+    "content": "content---ai-textbook-docs-applications-healthcare-38-e-957"
   },
-  "/docs/applications/robotics-a3e": {
+  "/ai-textbook/docs/applications/robotics-a0e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-applications-roboticse-00-118"
+    "content": "content---ai-textbook-docs-applications-roboticse-00-6a7"
   },
-  "/docs/cv/applications-af9": {
+  "/ai-textbook/docs/cv/applications-319": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-cv-applications-25-f-b08"
+    "content": "content---ai-textbook-docs-cv-applications-25-f-b94"
   },
-  "/docs/cv/image-processing-a61": {
+  "/ai-textbook/docs/cv/image-processing-b5f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-cv-image-processingcb-5-a93"
+    "content": "content---ai-textbook-docs-cv-image-processingcb-5-5f8"
   },
-  "/docs/cv/introduction-b5a": {
+  "/ai-textbook/docs/cv/introduction-0f9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-cv-introduction-0-f-5-bf3"
+    "content": "content---ai-textbook-docs-cv-introduction-0-f-5-02b"
   },
-  "/docs/cv/object-detection-741": {
+  "/ai-textbook/docs/cv/object-detection-d09": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-cv-object-detectione-11-cde"
+    "content": "content---ai-textbook-docs-cv-object-detectione-11-c55"
   },
-  "/docs/docs/intro-e37": {
+  "/ai-textbook/docs/foundations/ai-ethics-f49": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-intro-0-e-3-261"
+    "content": "content---ai-textbook-docs-foundations-ai-ethicsce-7-95e"
   },
-  "/docs/foundations/ai-ethics-e6d": {
+  "/ai-textbook/docs/foundations/core-concepts-067": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-ai-ethicsce-7-d90"
+    "content": "content---ai-textbook-docs-foundations-core-concepts-660-61d"
   },
-  "/docs/foundations/core-concepts-3fa": {
+  "/ai-textbook/docs/foundations/history-f68": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-core-concepts-660-3a5"
+    "content": "content---ai-textbook-docs-foundations-history-77-a-701"
   },
-  "/docs/foundations/history-fa3": {
+  "/ai-textbook/docs/foundations/types-of-ai-840": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-history-77-a-cd3"
+    "content": "content---ai-textbook-docs-foundations-types-of-aibec-2fc"
   },
-  "/docs/foundations/types-of-ai-95e": {
+  "/ai-textbook/docs/getting-started/installation-9dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-types-of-aibec-a2d"
+    "content": "content---ai-textbook-docs-getting-started-installation-54-f-9eb"
   },
-  "/docs/getting-started/installation-490": {
+  "/ai-textbook/docs/getting-started/quick-start-2e4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-installation-54-f-18d"
+    "content": "content---ai-textbook-docs-getting-started-quick-start-588-127"
   },
-  "/docs/getting-started/quick-start-c34": {
+  "/ai-textbook/docs/intro-41a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-quick-start-588-94b"
+    "content": "content---ai-textbook-docs-intro-0-e-3-b07"
   },
-  "/docs/ml/deep-learning-5c9": {
+  "/ai-textbook/docs/ml/deep-learning-1ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ml-deep-learningc-07-ea2"
+    "content": "content---ai-textbook-docs-ml-deep-learningc-07-f7c"
   },
-  "/docs/ml/introduction-359": {
+  "/ai-textbook/docs/ml/introduction-493": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ml-introduction-942-d3b"
+    "content": "content---ai-textbook-docs-ml-introduction-942-23a"
   },
-  "/docs/ml/reinforcement-learning-74f": {
+  "/ai-textbook/docs/ml/reinforcement-learning-b93": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ml-reinforcement-learning-53-b-4b6"
+    "content": "content---ai-textbook-docs-ml-reinforcement-learning-53-b-fff"
   },
-  "/docs/ml/supervised-learning-88f": {
+  "/ai-textbook/docs/ml/supervised-learning-618": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ml-supervised-learninga-13-c0f"
+    "content": "content---ai-textbook-docs-ml-supervised-learninga-13-51c"
   },
-  "/docs/ml/unsupervised-learning-d93": {
+  "/ai-textbook/docs/ml/unsupervised-learning-fef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ml-unsupervised-learning-7-bc-fff"
+    "content": "content---ai-textbook-docs-ml-unsupervised-learning-7-bc-f78"
   },
-  "/docs/nlp/applications-723": {
+  "/ai-textbook/docs/nlp/applications-777": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-nlp-applications-41-a-715"
+    "content": "content---ai-textbook-docs-nlp-applications-41-a-13c"
   },
-  "/docs/nlp/introduction-a3c": {
+  "/ai-textbook/docs/nlp/introduction-3f8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-nlp-introductionb-6-c-28f"
+    "content": "content---ai-textbook-docs-nlp-introductionb-6-c-96f"
   },
-  "/docs/nlp/language-models-f63": {
+  "/ai-textbook/docs/nlp/language-models-9e1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-nlp-language-models-59-a-022"
+    "content": "content---ai-textbook-docs-nlp-language-models-59-a-6b1"
   },
-  "/docs/nlp/text-processing-0a0": {
+  "/ai-textbook/docs/nlp/text-processing-658": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-nlp-text-processing-723-517"
+    "content": "content---ai-textbook-docs-nlp-text-processing-723-1ef"
   },
-  "/-9e4": {
+  "/ai-textbook/docs/quiz-530": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-docs-quiz-89-d-c42"
+  },
+  "/ai-textbook/-88e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---c-88-8eb"
+      "plugin": "plugin---ai-textbook-quiza-74-429"
     },
-    "content": "content---e-7-c-0a5"
+    "content": "content---ai-textbook-e-7-c-f8a"
   }
 }

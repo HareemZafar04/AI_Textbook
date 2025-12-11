@@ -5,7 +5,7 @@
   "source": "@site/docs/ml/unsupervised-learning.md",
   "sourceDirName": "ml",
   "slug": "/ml/unsupervised-learning",
-  "permalink": "/docs/ml/unsupervised-learning",
+  "permalink": "/ai-textbook/docs/ml/unsupervised-learning",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/unsupervised-learning.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Supervised Learning",
-    "permalink": "/docs/ml/supervised-learning"
+    "permalink": "/ai-textbook/docs/ml/supervised-learning"
   },
   "next": {
     "title": "Reinforcement Learning",
-    "permalink": "/docs/ml/reinforcement-learning"
+    "permalink": "/ai-textbook/docs/ml/reinforcement-learning"
   }
 }

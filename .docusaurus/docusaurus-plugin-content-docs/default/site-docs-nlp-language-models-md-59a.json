@@ -5,7 +5,7 @@
   "source": "@site/docs/nlp/language-models.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/language-models",
-  "permalink": "/docs/nlp/language-models",
+  "permalink": "/ai-textbook/docs/nlp/language-models",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/language-models.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Text Processing Techniques",
-    "permalink": "/docs/nlp/text-processing"
+    "permalink": "/ai-textbook/docs/nlp/text-processing"
   },
   "next": {
     "title": "NLP Applications",
-    "permalink": "/docs/nlp/applications"
+    "permalink": "/ai-textbook/docs/nlp/applications"
   }
 }

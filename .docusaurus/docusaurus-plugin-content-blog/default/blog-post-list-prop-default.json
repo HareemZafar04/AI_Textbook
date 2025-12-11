@@ -3,8 +3,9 @@
   "items": [
     {
       "title": "Welcome to the AI Textbook Blog",
-      "permalink": "/blog/2023/01/01/welcome",
-      "unlisted": false
+      "permalink": "/ai-textbook/blog/2023/01/01/welcome",
+      "unlisted": false,
+      "date": "2023-01-01T00:00:00.000Z"
     }
   ]
 }

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkai_textbook=globalThis.webpackChunkai_textbook||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the AI Textbook Blog","permalink":"/ai-textbook/blog/2023/01/01/welcome","unlisted":false,"date":"2023-01-01T00:00:00.000Z"}]}')}}]);

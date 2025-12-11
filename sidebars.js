@@ -77,5 +77,6 @@ module.exports = {
     //     'future/agi',
     //   ],
     // },
+    'quiz',
   ],
 };

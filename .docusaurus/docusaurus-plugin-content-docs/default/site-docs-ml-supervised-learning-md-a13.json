@@ -5,7 +5,7 @@
   "source": "@site/docs/ml/supervised-learning.md",
   "sourceDirName": "ml",
   "slug": "/ml/supervised-learning",
-  "permalink": "/docs/ml/supervised-learning",
+  "permalink": "/ai-textbook/docs/ml/supervised-learning",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/supervised-learning.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to ML",
-    "permalink": "/docs/ml/introduction"
+    "permalink": "/ai-textbook/docs/ml/introduction"
   },
   "next": {
     "title": "Unsupervised Learning",
-    "permalink": "/docs/ml/unsupervised-learning"
+    "permalink": "/ai-textbook/docs/ml/unsupervised-learning"
   }
 }

@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction to AI Textbook",
-        "href": "/docs/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },

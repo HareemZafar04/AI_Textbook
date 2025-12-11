@@ -5,7 +5,7 @@
   "source": "@site/docs/nlp/applications.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/applications",
-  "permalink": "/docs/nlp/applications",
+  "permalink": "/ai-textbook/docs/nlp/applications",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/applications.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Language Models",
-    "permalink": "/docs/nlp/language-models"
+    "permalink": "/ai-textbook/docs/nlp/language-models"
   },
   "next": {
     "title": "Introduction to Computer Vision",
-    "permalink": "/docs/cv/introduction"
+    "permalink": "/ai-textbook/docs/cv/introduction"
   }
 }

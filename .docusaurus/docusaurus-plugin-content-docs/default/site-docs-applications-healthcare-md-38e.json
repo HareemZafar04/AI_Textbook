@@ -5,7 +5,7 @@
   "source": "@site/docs/applications/healthcare.md",
   "sourceDirName": "applications",
   "slug": "/applications/healthcare",
-  "permalink": "/docs/applications/healthcare",
+  "permalink": "/ai-textbook/docs/applications/healthcare",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/healthcare.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Computer Vision Applications",
-    "permalink": "/docs/cv/applications"
+    "permalink": "/ai-textbook/docs/cv/applications"
   },
   "next": {
     "title": "Finance Applications",
-    "permalink": "/docs/applications/finance"
+    "permalink": "/ai-textbook/docs/applications/finance"
   }
 }

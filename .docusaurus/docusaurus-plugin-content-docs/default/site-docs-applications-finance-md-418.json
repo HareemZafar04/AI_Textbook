@@ -5,7 +5,7 @@
   "source": "@site/docs/applications/finance.md",
   "sourceDirName": "applications",
   "slug": "/applications/finance",
-  "permalink": "/docs/applications/finance",
+  "permalink": "/ai-textbook/docs/applications/finance",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/finance.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Healthcare Applications",
-    "permalink": "/docs/applications/healthcare"
+    "permalink": "/ai-textbook/docs/applications/healthcare"
   },
   "next": {
     "title": "autonomous-systems",
-    "permalink": "/docs/applications/autonomous-systems"
+    "permalink": "/ai-textbook/docs/applications/autonomous-systems"
   }
 }
