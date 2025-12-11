@@ -138,10 +138,10 @@ const config = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {
-            from: '/docs/category/old-section',
-            to: '/docs/category/new-section',
-          },
+          // {
+          //   from: '/docs/category/old-section',
+          //   to: '/docs/category/new-section',  // This path doesn't exist, commenting out for now
+          // },
         ],
       },
     ],

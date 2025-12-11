@@ -3,10 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "prebuild": "npm ci --quiet",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "node scripts/build.js",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -16,14 +15,16 @@
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
+    "@docusaurus/plugin-client-redirects": "^3.9.2",
     "@docusaurus/preset-classic": "^3.9.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "css-minimizer-webpack-plugin": "^7.0.3",
+    "cssnano": "^5.1.15",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "svgo": "^2.8.0",
-    "cssnano": "^5.1.15"
+    "svgo": "^2.8.0"
   },
   "resolutions": {
     "svgo": "^2.8.0",
