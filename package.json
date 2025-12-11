@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "npx --no-install docusaurus build",
+    "build": "node -e \"require('./node_modules/@docusaurus/core/lib/commands/build/build.js').build(__dirname, {}).catch(e => { console.error(e); process.exit(1); });\"",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
