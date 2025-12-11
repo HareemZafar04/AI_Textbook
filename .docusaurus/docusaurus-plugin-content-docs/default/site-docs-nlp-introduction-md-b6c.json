@@ -5,10 +5,10 @@
   "source": "@site/docs/nlp/introduction.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/introduction",
-  "permalink": "/ai-textbook/docs/nlp/introduction",
+  "permalink": "/docs/nlp/introduction",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/introduction.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/nlp/introduction.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deep Learning",
-    "permalink": "/ai-textbook/docs/ml/deep-learning"
+    "permalink": "/docs/ml/deep-learning"
   },
   "next": {
     "title": "Text Processing Techniques",
-    "permalink": "/ai-textbook/docs/nlp/text-processing"
+    "permalink": "/docs/nlp/text-processing"
   }
 }

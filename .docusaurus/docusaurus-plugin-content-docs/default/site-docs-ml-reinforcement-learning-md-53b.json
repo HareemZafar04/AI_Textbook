@@ -5,10 +5,10 @@
   "source": "@site/docs/ml/reinforcement-learning.md",
   "sourceDirName": "ml",
   "slug": "/ml/reinforcement-learning",
-  "permalink": "/ai-textbook/docs/ml/reinforcement-learning",
+  "permalink": "/docs/ml/reinforcement-learning",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/reinforcement-learning.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/ml/reinforcement-learning.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Unsupervised Learning",
-    "permalink": "/ai-textbook/docs/ml/unsupervised-learning"
+    "permalink": "/docs/ml/unsupervised-learning"
   },
   "next": {
     "title": "Deep Learning",
-    "permalink": "/ai-textbook/docs/ml/deep-learning"
+    "permalink": "/docs/ml/deep-learning"
   }
 }

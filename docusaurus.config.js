@@ -9,8 +9,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ai-textbook.github.io',  // Updated for GitHub Pages
-  baseUrl: '/ai-textbook/',  // Updated for GitHub Pages subdirectory
+  url: 'https://ai-robotics-book.vercel.app',  // Updated for Vercel deployment
+  baseUrl: '/',
   organizationName: 'ai-textbook',
   projectName: 'ai-textbook',
 
@@ -19,11 +19,11 @@ const config = {
   markdown: {
     format: 'detect',
     mermaid: false,
-  },
-  customFields: {
-    externalLinksTarget: '_blank',
-    externalLinksRel: 'nofollow noopener noreferrer',
-    mdx1CompatibleSyntax: true,
+    mdx1Compat: {
+      comments: true,
+      admonitions: true,
+      headingIds: true,
+    },
   },
 
   i18n: {
@@ -39,12 +39,12 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/ai-textbook/ai-textbook/edit/main/',
+            'https://github.com/HareemZafar04/ai_robotics_book/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/ai-textbook/ai-textbook/edit/main/',
+            'https://github.com/HareemZafar04/ai_robotics_book/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,7 @@ const config = {
           { to: '/quiz', label: 'Quiz', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/ai-textbook/ai-textbook',
+            href: 'https://github.com/HareemZafar04/ai_robotics_book',
             label: 'GitHub',
             position: 'right',
           },
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'AI Community',
-                href: 'https://example.com/ai-community',
+                href: 'https://community.ai-textbook.org',  // Placeholder - replace with actual community link
               },
             ],
           },
@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ai-textbook/ai-textbook',
+                href: 'https://github.com/HareemZafar04/ai_robotics_book',
               },
             ],
           },

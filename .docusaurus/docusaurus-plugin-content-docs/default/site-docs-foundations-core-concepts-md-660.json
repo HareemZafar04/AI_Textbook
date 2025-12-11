@@ -5,10 +5,10 @@
   "source": "@site/docs/foundations/core-concepts.md",
   "sourceDirName": "foundations",
   "slug": "/foundations/core-concepts",
-  "permalink": "/ai-textbook/docs/foundations/core-concepts",
+  "permalink": "/docs/foundations/core-concepts",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/core-concepts.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/foundations/core-concepts.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "History of AI",
-    "permalink": "/ai-textbook/docs/foundations/history"
+    "permalink": "/docs/foundations/history"
   },
   "next": {
     "title": "Types of AI",
-    "permalink": "/ai-textbook/docs/foundations/types-of-ai"
+    "permalink": "/docs/foundations/types-of-ai"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/ml/supervised-learning.md",
   "sourceDirName": "ml",
   "slug": "/ml/supervised-learning",
-  "permalink": "/ai-textbook/docs/ml/supervised-learning",
+  "permalink": "/docs/ml/supervised-learning",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/supervised-learning.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/ml/supervised-learning.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to ML",
-    "permalink": "/ai-textbook/docs/ml/introduction"
+    "permalink": "/docs/ml/introduction"
   },
   "next": {
     "title": "Unsupervised Learning",
-    "permalink": "/ai-textbook/docs/ml/unsupervised-learning"
+    "permalink": "/docs/ml/unsupervised-learning"
   }
 }

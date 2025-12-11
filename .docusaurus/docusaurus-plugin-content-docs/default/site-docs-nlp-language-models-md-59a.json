@@ -5,10 +5,10 @@
   "source": "@site/docs/nlp/language-models.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/language-models",
-  "permalink": "/ai-textbook/docs/nlp/language-models",
+  "permalink": "/docs/nlp/language-models",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/language-models.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/nlp/language-models.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Text Processing Techniques",
-    "permalink": "/ai-textbook/docs/nlp/text-processing"
+    "permalink": "/docs/nlp/text-processing"
   },
   "next": {
     "title": "NLP Applications",
-    "permalink": "/ai-textbook/docs/nlp/applications"
+    "permalink": "/docs/nlp/applications"
   }
 }

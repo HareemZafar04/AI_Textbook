@@ -5,10 +5,10 @@
   "source": "@site/docs/applications/healthcare.md",
   "sourceDirName": "applications",
   "slug": "/applications/healthcare",
-  "permalink": "/ai-textbook/docs/applications/healthcare",
+  "permalink": "/docs/applications/healthcare",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/healthcare.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/applications/healthcare.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Computer Vision Applications",
-    "permalink": "/ai-textbook/docs/cv/applications"
+    "permalink": "/docs/cv/applications"
   },
   "next": {
     "title": "Finance Applications",
-    "permalink": "/ai-textbook/docs/applications/finance"
+    "permalink": "/docs/applications/finance"
   }
 }

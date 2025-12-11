@@ -5,10 +5,10 @@
   "source": "@site/docs/quiz.md",
   "sourceDirName": ".",
   "slug": "/quiz",
-  "permalink": "/ai-textbook/docs/quiz",
+  "permalink": "/docs/quiz",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/quiz.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/quiz.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 99,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Robotics Applications",
-    "permalink": "/ai-textbook/docs/applications/robotics"
+    "permalink": "/docs/applications/robotics"
   }
 }

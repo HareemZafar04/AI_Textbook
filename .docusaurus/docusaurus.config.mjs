@@ -7,20 +7,20 @@ export default {
   "title": "AI Textbook",
   "tagline": "Comprehensive Guide to Artificial Intelligence",
   "favicon": "img/favicon.ico",
-  "url": "https://ai-textbook.github.io",
-  "baseUrl": "/ai-textbook/",
+  "url": "https://ai-robotics-book.vercel.app",
+  "baseUrl": "/",
   "organizationName": "ai-textbook",
   "projectName": "ai-textbook",
   "onBrokenLinks": "throw",
   "markdown": {
     "format": "detect",
     "mermaid": false,
-    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
       "headingIds": true
     },
+    "emoji": true,
     "anchors": {
       "maintainCase": false
     },
@@ -28,11 +28,6 @@ export default {
       "onBrokenMarkdownLinks": "warn",
       "onBrokenMarkdownImages": "throw"
     }
-  },
-  "customFields": {
-    "externalLinksTarget": "_blank",
-    "externalLinksRel": "nofollow noopener noreferrer",
-    "mdx1CompatibleSyntax": true
   },
   "i18n": {
     "defaultLocale": "en",
@@ -48,11 +43,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/"
+          "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/"
+          "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -86,7 +81,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/ai-textbook/ai-textbook",
+          "href": "https://github.com/HareemZafar04/ai_robotics_book",
           "label": "GitHub",
           "position": "right"
         }
@@ -122,7 +117,7 @@ export default {
             },
             {
               "label": "AI Community",
-              "href": "https://example.com/ai-community"
+              "href": "https://community.ai-textbook.org"
             }
           ]
         },
@@ -135,7 +130,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/ai-textbook/ai-textbook"
+              "href": "https://github.com/HareemZafar04/ai_robotics_book"
             }
           ]
         }
@@ -396,6 +391,7 @@ export default {
   "staticDirectories": [
     "static"
   ],
+  "customFields": {},
   "plugins": [],
   "themes": [],
   "scripts": [],

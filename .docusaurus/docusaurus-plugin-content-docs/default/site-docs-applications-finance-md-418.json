@@ -5,10 +5,10 @@
   "source": "@site/docs/applications/finance.md",
   "sourceDirName": "applications",
   "slug": "/applications/finance",
-  "permalink": "/ai-textbook/docs/applications/finance",
+  "permalink": "/docs/applications/finance",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/applications/finance.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/applications/finance.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Healthcare Applications",
-    "permalink": "/ai-textbook/docs/applications/healthcare"
+    "permalink": "/docs/applications/healthcare"
   },
   "next": {
     "title": "autonomous-systems",
-    "permalink": "/ai-textbook/docs/applications/autonomous-systems"
+    "permalink": "/docs/applications/autonomous-systems"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/getting-started/installation.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/installation",
-  "permalink": "/ai-textbook/docs/getting-started/installation",
+  "permalink": "/docs/getting-started/installation",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/getting-started/installation.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/getting-started/installation.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to AI Textbook",
-    "permalink": "/ai-textbook/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Quick Start",
-    "permalink": "/ai-textbook/docs/getting-started/quick-start"
+    "permalink": "/docs/getting-started/quick-start"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/ml/introduction.md",
   "sourceDirName": "ml",
   "slug": "/ml/introduction",
-  "permalink": "/ai-textbook/docs/ml/introduction",
+  "permalink": "/docs/ml/introduction",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/ml/introduction.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/ml/introduction.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AI Ethics",
-    "permalink": "/ai-textbook/docs/foundations/ai-ethics"
+    "permalink": "/docs/foundations/ai-ethics"
   },
   "next": {
     "title": "Supervised Learning",
-    "permalink": "/ai-textbook/docs/ml/supervised-learning"
+    "permalink": "/docs/ml/supervised-learning"
   }
 }

@@ -5,10 +5,10 @@
   "source": "@site/docs/foundations/history.md",
   "sourceDirName": "foundations",
   "slug": "/foundations/history",
-  "permalink": "/ai-textbook/docs/foundations/history",
+  "permalink": "/docs/foundations/history",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/foundations/history.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/foundations/history.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Quick Start",
-    "permalink": "/ai-textbook/docs/getting-started/quick-start"
+    "permalink": "/docs/getting-started/quick-start"
   },
   "next": {
     "title": "Core Concepts",
-    "permalink": "/ai-textbook/docs/foundations/core-concepts"
+    "permalink": "/docs/foundations/core-concepts"
   }
 }

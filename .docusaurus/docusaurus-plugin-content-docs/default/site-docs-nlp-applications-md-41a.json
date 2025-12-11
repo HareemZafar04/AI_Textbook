@@ -5,10 +5,10 @@
   "source": "@site/docs/nlp/applications.md",
   "sourceDirName": "nlp",
   "slug": "/nlp/applications",
-  "permalink": "/ai-textbook/docs/nlp/applications",
+  "permalink": "/docs/nlp/applications",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/nlp/applications.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/nlp/applications.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Language Models",
-    "permalink": "/ai-textbook/docs/nlp/language-models"
+    "permalink": "/docs/nlp/language-models"
   },
   "next": {
     "title": "Introduction to Computer Vision",
-    "permalink": "/ai-textbook/docs/cv/introduction"
+    "permalink": "/docs/cv/introduction"
   }
 }

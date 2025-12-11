@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/ai-textbook/blog",
+  "blogBasePath": "/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/ai-textbook/blog/authors"
+  "authorsListPath": "/blog/authors"
 }

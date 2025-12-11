@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://ai-textbook.github.io",
-      "baseUrl": "/ai-textbook/"
+      "url": "https://ai-robotics-book.vercel.app",
+      "baseUrl": "/"
     }
   }
 }

@@ -5,16 +5,16 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/ai-textbook/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/intro.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Installation",
-    "permalink": "/ai-textbook/docs/getting-started/installation"
+    "permalink": "/docs/getting-started/installation"
   }
 }

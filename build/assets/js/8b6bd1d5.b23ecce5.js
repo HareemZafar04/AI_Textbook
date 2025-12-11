@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkai_textbook=globalThis.webpackChunkai_textbook||[]).push([[9261],{8552:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/ai-textbook/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

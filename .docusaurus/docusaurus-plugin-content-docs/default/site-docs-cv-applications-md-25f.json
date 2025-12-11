@@ -5,10 +5,10 @@
   "source": "@site/docs/cv/applications.md",
   "sourceDirName": "cv",
   "slug": "/cv/applications",
-  "permalink": "/ai-textbook/docs/cv/applications",
+  "permalink": "/docs/cv/applications",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/ai-textbook/ai-textbook/edit/main/docs/cv/applications.md",
+  "editUrl": "https://github.com/HareemZafar04/ai_robotics_book/edit/main/docs/cv/applications.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Object Detection",
-    "permalink": "/ai-textbook/docs/cv/object-detection"
+    "permalink": "/docs/cv/object-detection"
   },
   "next": {
     "title": "Healthcare Applications",
-    "permalink": "/ai-textbook/docs/applications/healthcare"
+    "permalink": "/docs/applications/healthcare"
   }
 }
