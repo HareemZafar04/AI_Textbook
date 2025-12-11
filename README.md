@@ -1,4 +1,3 @@
-
 # AI Textbook - Docusaurus Documentation Site
 
 This project contains a Docusaurus-based documentation site for the AI Textbook project. The site serves as a comprehensive guide to artificial intelligence concepts, techniques, and applications.
@@ -119,5 +118,3 @@ We welcome contributions to the AI Textbook project! If you'd like to contribute
 2. Create a new branch for your feature or bug fix
 3. Add your changes and commit them with descriptive commit messages
 4. Submit a pull request with a clear description of your changes
-
-This textbook provides ROS 2 (Weeks 3-5): Robot Operating System fundamentals Digital Twin (Weeks 6-7): Gazebo and Unity simulation NVIDIA Isaac Sim (Weeks 8-10): GPU-accelerated simulation and synthetic data Vision-Language-Action Models (Weeks 11-13): Multimodal AI for humanoid control
