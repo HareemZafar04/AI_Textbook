@@ -23,7 +23,9 @@
     "react-dom": "^18.0.0"
   },
   "resolutions": {
-    "svgo": "^3.0.0"
+    "svgo": "^2.8.0",
+    "cssnano": "^5.1.15",
+    "postcss-svgo": "^5.1.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
