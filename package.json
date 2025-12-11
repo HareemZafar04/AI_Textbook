@@ -5,13 +5,14 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "npx docusaurus build",
+    "build": "node -e \"require('@docusaurus/core').build(__dirname)\"",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "postinstall": "chmod +x node_modules/.bin/docusaurus || echo 'Postinstall completed'"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
