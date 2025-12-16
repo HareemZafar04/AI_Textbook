@@ -1,246 +1,289 @@
 {
-  "/blog-7af": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "sidebar": "814f3328",
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-7af": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "c15d9823"
+    "__props": "__props---blogc-15-573"
   },
   "/blog/2023/01/01/welcome-f7f": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-01-welcomeace-f0c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "7572c777"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-01-01-welcome-757-e5f"
   },
   "/blog/archive-182": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "__props": "f81c1134"
+    "__props": "__props---blog-archivef-81-229"
   },
   "/blog/tags-287": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "__props": "3a2db09e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
   },
   "/blog/tags/ai-52e": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "65a6d713"
+    "__props": "__props---blog-tags-ai-65-a-ec1"
   },
   "/blog/tags/education-045": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "12ef0105"
+    "__props": "__props---blog-tags-education-12-e-770"
   },
   "/blog/tags/genai-37f": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "2c3c4174"
+    "__props": "__props---blog-tags-genai-2-c-3-7ca"
   },
   "/blog/tags/machine-learning-524": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "e3dec61a"
+    "__props": "__props---blog-tags-machine-learninge-3-d-342"
   },
   "/blog/tags/research-57a": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "80f1f3e0"
+    "__props": "__props---blog-tags-research-80-f-fdd"
   },
   "/blog/tags/robotics-988": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "ace930bc"
+        "content": "content---blogace-42b"
       }
     ],
-    "__props": "7537a2fe"
+    "__props": "__props---blog-tags-robotics-753-22f"
   },
   "/quiz-ed5": {
-    "__comp": "afd4e7ae",
+    "__comp": "__comp---site-src-pages-quiz-jsxafd-013",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---quiza-74-833"
     },
-    "config": "5e9f5e1a"
+    "config": "config---quiz-5-e-9-9f4"
   },
   "/docs-74f": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-089": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs-dd7": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/applications/autonomous-systems-abd": {
-    "__comp": "17896441",
-    "content": "b07b4389"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-applications-autonomous-systemsb-07-50d"
   },
   "/docs/applications/finance-bb6": {
-    "__comp": "17896441",
-    "content": "418e01a3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-applications-finance-418-dae"
   },
   "/docs/applications/healthcare-744": {
-    "__comp": "17896441",
-    "content": "38e13283"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-applications-healthcare-38-e-509"
   },
   "/docs/applications/robotics-67e": {
-    "__comp": "17896441",
-    "content": "e0081f7b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-applications-roboticse-00-118"
   },
   "/docs/cv/applications-ed1": {
-    "__comp": "17896441",
-    "content": "25fd2adb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cv-applications-25-f-b08"
   },
   "/docs/cv/image-processing-27c": {
-    "__comp": "17896441",
-    "content": "cb5360b4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cv-image-processingcb-5-a93"
   },
   "/docs/cv/introduction-c42": {
-    "__comp": "17896441",
-    "content": "0f59b7f5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cv-introduction-0-f-5-bf3"
   },
   "/docs/cv/object-detection-444": {
-    "__comp": "17896441",
-    "content": "e1117ad9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cv-object-detectione-11-cde"
   },
   "/docs/foundations/ai-ethics-4ce": {
-    "__comp": "17896441",
-    "content": "ce754209"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-ai-ethicsce-7-d90"
   },
   "/docs/foundations/core-concepts-b67": {
-    "__comp": "17896441",
-    "content": "66089096"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-core-concepts-660-3a5"
   },
   "/docs/foundations/history-37a": {
-    "__comp": "17896441",
-    "content": "77aac314"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-history-77-a-cd3"
   },
   "/docs/foundations/types-of-ai-0e4": {
-    "__comp": "17896441",
-    "content": "bec0295e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundations-types-of-aibec-a2d"
   },
   "/docs/getting-started/installation-267": {
-    "__comp": "17896441",
-    "content": "54f44165"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-installation-54-f-18d"
   },
   "/docs/getting-started/quick-start-09c": {
-    "__comp": "17896441",
-    "content": "588bd741"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-quick-start-588-94b"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/ml/deep-learning-ed0": {
-    "__comp": "17896441",
-    "content": "c078e60b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ml-deep-learningc-07-ea2"
   },
   "/docs/ml/introduction-79f": {
-    "__comp": "17896441",
-    "content": "942994e4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ml-introduction-942-d3b"
   },
   "/docs/ml/reinforcement-learning-55d": {
-    "__comp": "17896441",
-    "content": "53b7965a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ml-reinforcement-learning-53-b-4b6"
   },
   "/docs/ml/supervised-learning-637": {
-    "__comp": "17896441",
-    "content": "a13243cb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ml-supervised-learninga-13-c0f"
   },
   "/docs/ml/unsupervised-learning-b2d": {
-    "__comp": "17896441",
-    "content": "7bc5695e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ml-unsupervised-learning-7-bc-fff"
   },
   "/docs/nlp/applications-c51": {
-    "__comp": "17896441",
-    "content": "41a26179"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nlp-applications-41-a-715"
   },
   "/docs/nlp/introduction-631": {
-    "__comp": "17896441",
-    "content": "b6c7c878"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nlp-introductionb-6-c-28f"
   },
   "/docs/nlp/language-models-47a": {
-    "__comp": "17896441",
-    "content": "59ab97c9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nlp-language-models-59-a-022"
   },
   "/docs/nlp/text-processing-63e": {
-    "__comp": "17896441",
-    "content": "72383cfb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nlp-text-processing-723-517"
   },
   "/docs/quiz-b0b": {
-    "__comp": "17896441",
-    "content": "89dc01bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quiz-89-d-a26"
   },
   "/-fd5": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---quiza-74-833"
     },
-    "content": "e7ce6630"
+    "content": "content---e-7-c-0a5"
   }
 }

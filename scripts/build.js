@@ -2,20 +2,34 @@
 
 // Custom build script to avoid binary permission issues on Vercel and fix CSS issues
 const path = require('path');
-const fs = require('fs');
 
 // Set NODE_ENV to production
 process.env.NODE_ENV = 'production';
 
-// Dynamically import @docusaurus/core
-const docusaurusCore = require('@docusaurus/core');
+// Import @docusaurus/core using dynamic require with error handling
+let docusaurusCore;
+try {
+  docusaurusCore = require('@docusaurus/core');
+} catch (error) {
+  console.error('Error importing @docusaurus/core:', error.message);
+  console.error('Make sure all dependencies are installed correctly.');
+  console.error('Run `npm install` to install missing dependencies.');
+  process.exit(1);
+}
+
 const build = docusaurusCore.build;
 
-// Modify the config to fix CSS optimization issues
-let config = require('../docusaurus.config.js');
+// Import config
+let config;
+try {
+  config = require('../docusaurus.config.js');
+} catch (error) {
+  console.error('Error importing docusaurus.config.js:', error.message);
+  process.exit(1);
+}
 
 // Add custom webpack config to handle CSS minimization
-config = {
+const updatedConfig = {
   ...config,
   webpack: {
     ...config.webpack,
@@ -26,19 +40,24 @@ config = {
           .map(minimizer => {
             // If it's the CssMinimizerPlugin, modify its options
             if (minimizer.constructor.name === 'CssMinimizerPlugin') {
-              // Create new instance of CssMinimizerPlugin with SVGO disabled
-              const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
-              return new CssMinimizerPlugin({
-                minimizerOptions: {
-                  preset: [
-                    'default',
-                    {
-                      // Disable SVGO to avoid the cleanupIds.js error
-                      svgo: false,
-                    },
-                  ],
-                },
-              });
+              try {
+                const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
+                return new CssMinimizerPlugin({
+                  minimizerOptions: {
+                    preset: [
+                      'default',
+                      {
+                        // Disable SVGO to avoid the cleanupIds.js error
+                        svgo: false,
+                      },
+                    ],
+                  },
+                });
+              } catch (error) {
+                console.warn('Warning: Could not import css-minimizer-webpack-plugin:', error.message);
+                console.warn('Falling back to original minimizer.');
+                return minimizer;
+              }
             }
             return minimizer;
           });
@@ -55,7 +74,7 @@ config = {
 };
 
 // Perform the build
-build(process.cwd(), config)
+build(process.cwd(), updatedConfig)
   .then(() => {
     console.log('Build completed successfully');
     process.exit(0);

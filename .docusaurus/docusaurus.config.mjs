@@ -364,6 +364,14 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        "redirects": []
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "future": {
     "v4": {
@@ -392,7 +400,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

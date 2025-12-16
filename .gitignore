@@ -20,4 +20,5 @@ edit-this-doc/
 .env.defaults
 .env.defaults.local
 .DS_Store
-Thumbs.db" 
+Thumbs.db
+nul" 
