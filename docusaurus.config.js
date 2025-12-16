@@ -9,13 +9,12 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ai-robotics-book.vercel.app',  // Updated for Vercel deployment
+  url: 'https://ai-textbook.vercel.app',  // Updated for Vercel deployment
   baseUrl: '/',
-  organizationName: 'ai-textbook',
-  projectName: 'ai-textbook',
+  organizationName: 'HareemZafar04',
+  projectName: 'AI_Textbook',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn', // Keep this for now to avoid breaking changes
   markdown: {
     format: 'detect',
     mermaid: false,
@@ -23,6 +22,9 @@ const config = {
       comments: true,
       admonitions: true,
       headingIds: true,
+    },
+    hooks: {
+      onBrokenMarkdownLinks: 'warn', // Updated to new location
     },
   },
 
@@ -39,12 +41,12 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/HareemZafar04/ai_robotics_book/edit/main/',
+            'https://github.com/HareemZafar04/AI_Textbook/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/HareemZafar04/ai_robotics_book/edit/main/',
+            'https://github.com/HareemZafar04/AI_Textbook/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -121,7 +123,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/HareemZafar04/ai_robotics_book',
+                href: 'https://github.com/HareemZafar04/AI_Textbook',
               },
             ],
           },
